@@ -4,14 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="{{ url_for('static', filename='changeRankKeyword.js') }}" > </script>
 </head>
 <body>
     <div class="head-title">
         <h1> 키워드 서치 데모 페이지</h1>
         <h3> 적절한 키워드 후보를 찾아드립니da</h3>
     </div>
+
     <div class="input">
-        <input>
+        <input onkeydown = changeRankKeyword() id="inputText">
     </div>
+
+    </div>
+      <h5> 1st Rank Keyword : </h5>
+      <h5 id="1stRankText"> --- </h5>
+      <h5> </br> </h5>
+
+      <h5> 2nd Rank Keyword : </h5>
+      <h5 id="2ndRankText"> --- </h5>
+      <h5> </br> </h5>
+
+      <h5> 3rd Rank Keyword : </h5>
+      <h5 id="3rdRankText"> --- </h5>
+      <h5> </br> </h5>
+
+      <h5> 4th Rank Keyword : </h5>
+      <h5 id="4thRankText"> --- </h5>
+      <h5> </br> </h5>
+
+      <h5> 5th Rank Keyword : </h5>
+      <h5 id="5thRankText"> --- </h5>
+      <h5> </br> </h5>
+    <div>
+
 </body>
 </html>
