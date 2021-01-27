@@ -1,4 +1,3 @@
-searching_keyword_sn,representation_keyword_sn,searching_keyword
 1,1,가상화 솔루션
 2,2,강화 학습
 3,2,reinforcement learning
@@ -2149,60 +2148,57 @@ searching_keyword_sn,representation_keyword_sn,searching_keyword
 2148,683,API
 2149,683,Application Programming Interface
 2150,684,ccna
-2151,684,자격증...?
-2152,685,chatops
-2153,685,chat ops
-2154,686,clean architecture
-2155,687,codejam
-2156,687,코드잼
-2157,687,구글 코드잼
-2158,687,Google codejam
-2159,688,combine
-2160,689,core engineer
-2161,690,defcon
-2162,690,데프콘
-2163,690,데프 콘
-2164,690,def con
-2165,691,hacker cup
-2166,691,Fackbook hacker cup
-2167,691,해커 컵
-2168,692,insurtech
-2169,693,iphone app 개발
-2170,693,아이폰 앱 개발
-2171,693,아이폰 app 개발
-2172,693,아이폰 application 개발
-2173,693,ios app 개발
-2174,693,ios 앱 개발
-2175,693,ios app development
-2176,693,ios application development
-2177,693,apple development
-2178,694,live 기술 개발
-2179,695,log 처리
-2180,695,logging
-2181,696,MarioNETte
-2182,696,marionette
-2183,697,material
-2184,698,mcse
-2185,699,mobile deep learning
-2186,700,open api
-2187,701,os
-2188,702,query
-2189,702,쿼리
-2190,703,rcp
-2191,704,sqs
-2192,705,stereo camera
-2193,706,texture
-2194,706,graphics...
-2195,706,?
-2196,707,tradingview
-2197,708,ua
-2198,709,unidirectional 앱
-2199,709,unidirectional app
-2200,709,unidirectional application
-2201,710,vod 기술 개발
-2202,710,동영상 기술 솔루션 개발
-2203,710,주문형 비디오 기술 개발
-2204,711,vod 인코더 개발
-2205,711,vod encoder 개발
-2206,712,vod 편집 기능 개발
-2207,713,xba
+2151,685,chatops
+2152,685,chat ops
+2153,686,clean architecture
+2154,687,codejam
+2155,687,코드잼
+2156,687,구글 코드잼
+2157,687,Google codejam
+2158,688,combine
+2159,689,core engineer
+2160,690,defcon
+2161,690,데프콘
+2162,690,데프 콘
+2163,690,def con
+2164,691,hacker cup
+2165,691,Fackbook hacker cup
+2166,691,해커 컵
+2167,692,insurtech
+2168,693,iphone app 개발
+2169,693,아이폰 앱 개발
+2170,693,아이폰 app 개발
+2171,693,아이폰 application 개발
+2172,693,ios app 개발
+2173,693,ios 앱 개발
+2174,693,ios app development
+2175,693,ios application development
+2176,693,apple development
+2177,694,live 기술 개발
+2178,695,log 처리
+2179,695,logging
+2180,696,MarioNETte
+2181,696,marionette
+2182,697,material
+2183,698,mcse
+2184,699,mobile deep learning
+2185,700,open api
+2186,701,os
+2187,702,query
+2188,702,쿼리
+2189,703,rcp
+2190,704,sqs
+2191,705,stereo camera
+2192,706,texture
+2193,707,tradingview
+2194,708,ua
+2195,709,unidirectional 앱
+2196,709,unidirectional app
+2197,709,unidirectional application
+2198,710,vod 기술 개발
+2199,710,동영상 기술 솔루션 개발
+2200,710,주문형 비디오 기술 개발
+2201,711,vod 인코더 개발
+2202,711,vod encoder 개발
+2203,712,vod 편집 기능 개발
+2204,713,xba
