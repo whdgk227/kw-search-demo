@@ -10,8 +10,6 @@ flask = "*"
 numpy = "*"
 pandas = "*"
 soynlp = "*"
-time = "*"
-sys = "*"
 
 [requires]
 python_version = "3.7"
