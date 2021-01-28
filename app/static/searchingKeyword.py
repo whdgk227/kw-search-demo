@@ -1,8 +1,8 @@
-import time
 import pandas as pd
 from soynlp.hangle import jamo_levenshtein
 from soynlp.hangle import levenshtein
 import sys
+import time
 
 target_keyword = sys.argv[1]
 out_length = int(sys.argv[2])
