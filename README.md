@@ -31,3 +31,7 @@ $ pipenv install <패키지명>
 $ flask run
 ```
 
+* keyword searching demo
+```
+$ sh ./app/static/searchingKeyword.sh "검색어"
+```
