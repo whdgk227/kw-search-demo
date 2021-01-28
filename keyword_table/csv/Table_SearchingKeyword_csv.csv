@@ -2025,10 +2025,10 @@ searching_keyword_sn,representation_keyword_sn,searching_keyword
 2024,616,Structured Query Language
 2025,616,에스큐엘
 2026,617,TensorRT
-2027,617,tensorflow
-2028,617,텐서플로우
-2029,617,텐서플로
-2030,617,tf
+2027,617,tensorflowRT
+2028,617,텐서플로우RT
+2029,617,텐서플로RT
+2030,617,tfRT
 2031,618,travis ci
 2032,619,typeorm
 2033,619,object relational mapping
