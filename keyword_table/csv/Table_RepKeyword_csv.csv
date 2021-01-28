@@ -342,373 +342,375 @@ representation_keyword_sn,representation_keyword,Category
 341,마이크로소프트 비주얼 베이직 (Microsoft Visual Basic),도구&테크놀로지
 342,마이크로소프트 비주얼 C++ (Microsoft Visual C++),도구&테크놀로지
 343,마이크로소프트 애저 (Microsoft Azure),도구&테크놀로지
-344,마이크로소프트 엑셀 (Microsoft Excel),도구&테크놀로지
-345,마이크로소프트 오피스 (Microsoft Office),도구&테크놀로지
-346,마이크로소프트 하이퍼 V (Hyper-V),도구&테크놀로지
-347,마이크로소프트 SQL 서버 (MS SQL),도구&테크놀로지
-348,매트랩 (MATLAB),도구&테크놀로지
-349,맨티스 버그 추적기 (Mantis Bug Tracker),도구&테크놀로지
-350,맴캐시드 (Memcached),도구&테크놀로지
-351,맵리듀스 (MapReduce),도구&테크놀로지
-352,모의 객체 (Mock Object),도구&테크놀로지
-353,모키토 (Mokito),도구&테크놀로지
-354,몽고 DB (MongoDB),도구&테크놀로지
-355,바벨 (Babel),도구&테크놀로지
-356,부트스트랩 (Bootstrap),도구&테크놀로지
-357,부트캠프(Boot camp),도구&테크놀로지
-358,빅쿼리 (Big Query),도구&테크놀로지
-359,빗버킷 (Bitbucket),도구&테크놀로지
-360,"사용자 데이터그램 프로토콜 (UDP, User Datagram Protocol)",도구&테크놀로지
-361,사이킷런 (scikit-learn),도구&테크놀로지
-362,서버사이드 렌더링 (SSR),도구&테크놀로지
-363,"서브버전 (SVN, Subversion)",도구&테크놀로지
-364,소켓IO (Socket.IO),도구&테크놀로지
-365,솔트 (SaltStack),도구&테크놀로지
-366,쉘 스크립트 (Shell Script),도구&테크놀로지
-367,스웨거 (Swagger),도구&테크놀로지
-368,스위프트 (Swift),도구&테크놀로지
-369,스칼라 (Scala),도구&테크놀로지
-370,스케치 (Sketch),도구&테크놀로지
-371,스테레오 비전 (Stereo Vision),도구&테크놀로지
-372,스프링 루 (Spring Roo),도구&테크놀로지
-373,스프링 모바일 (Spring Mobile),도구&테크놀로지
-374,스프링 배치 (Spring Batch),도구&테크놀로지
-375,스프링 부트 (Spring Boot),도구&테크놀로지
-376,스프링 상태 머신 (Spring Statemachine),도구&테크놀로지
-377,스프링 쉘 (Spring Shell),도구&테크놀로지
-378,스프링 시큐리티 (Spring Security),도구&테크놀로지
-379,스프링 안드로이드 (Spring for Android),도구&테크놀로지
-380,스프링 클라우드 (Spring Cloud),도구&테크놀로지
-381,스프링 프레임워크 (Spring Framework),도구&테크놀로지
-382,스프링 AMQP (Spring AMQP),도구&테크놀로지
-383,스프링 CredHub (Spring CredHub),도구&테크놀로지
-384,스프링 Data (Spring Data),도구&테크놀로지
-385,스프링 Flo (Spring Flo),도구&테크놀로지
-386,스프링 HATEOAS (Spring HATEOAS),도구&테크놀로지
-387,스프링 Integration (Spring Integration),도구&테크놀로지
-388,스프링 LDAP (Spring LDAP),도구&테크놀로지
-389,스프링 MVC (Spring MVC),도구&테크놀로지
-390,스프링 REST Docs (Spring REST Docs),도구&테크놀로지
-391,스프링 Session (Spring Session),도구&테크놀로지
-392,스프링 Vault (Spring Vault),도구&테크놀로지
-393,슬랙 (Slack),도구&테크놀로지
-394,심포니 (Symfony),도구&테크놀로지
-395,아마존 관계형 데이터베이스 서비스 (Amazon RDS),도구&테크놀로지
-396,아마존 다이나모DB (Amazon DynamoDB),도구&테크놀로지
-397,아마존 알렉사 (Amazon Alexa),도구&테크놀로지
-398,아마존 알렉사 음성 서비스 (Amazon Alexa Voice Service),도구&테크놀로지
-399,아마존 웹 서비스 (AWS),도구&테크놀로지
-400,아마존 일래스틱 컨테이너 (Amazon ECS),도구&테크놀로지
-401,아마존 일래스틱 컴퓨트 클라우드 (Amazon EC2),도구&테크놀로지
-402,아마존 EKS (Amazon EKS),도구&테크놀로지
-403,아마존 ElastiCache (Amazon ElastiCache),도구&테크놀로지
-404,아마존 Redshift (Amazon Redshift),도구&테크놀로지
-405,아마존 Route 53 (Amazon Route 53),도구&테크놀로지
-406,아마존 S3 (Amazon S3),도구&테크놀로지
-407,아파치 (Apache),도구&테크놀로지
-408,아파치 메이븐 (Apache Maven),도구&테크놀로지
-409,아파치 서버 (Apache server),도구&테크놀로지
-410,아파치 스파크 (Apache Spark),도구&테크놀로지
-411,아파치 에어플로우 (Apache Airflow),도구&테크놀로지
-412,아파치 주키퍼 (Apache ZooKeeper),도구&테크놀로지
-413,아파치 카산드라 (Apache Cassandra),도구&테크놀로지
-414,아파치 카프카 (Apache Kafka),도구&테크놀로지
-415,아파치 코도바 (Apache Cordova),도구&테크놀로지
-416,아파치 톰캣 (Apache Tomcat),도구&테크놀로지
-417,아파치 하둡 (Apache Hadoop),도구&테크놀로지
-418,아파치 하이브 (Apache Hive),도구&테크놀로지
-419,아파치 HBase (Apache Hbase),도구&테크놀로지
-420,아파치 Ignite (Apache Ignite),도구&테크놀로지
-421,아폴로 (Apollo),도구&테크놀로지
-422,안드로이드 (Android),도구&테크놀로지
-423,암호화 해시 함수 (cryptographic hash),도구&테크놀로지
-424,앤서블 (Ansible),도구&테크놀로지
-425,앤트 디자인 (React Ant Design),도구&테크놀로지
-426,야믈 (Yaml),도구&테크놀로지
-427,어도비 일러스트레이터 (Adobe Illustrator),도구&테크놀로지
-428,어도비 포토샵 (Adobe Photoshop),도구&테크놀로지
-429,어도비 XD (Adobe XD),도구&테크놀로지
-430,언리얼 엔진 (Unreal Engine),도구&테크놀로지
-431,엔진 x (Ngnix),도구&테크놀로지
-432,엘름 (Elm),도구&테크놀로지
-433,오라클 웹로직 서버 (Oracle WebLogic Server),도구&테크놀로지
-434,오케스트레이션 (Orchestration),도구&테크놀로지
-435,오픈 그래픽 라이브러리 (OpenGL),도구&테크놀로지
-436,"오픈 소스 소프트웨어 (OSS, Open Source Software)",도구&테크놀로지
-437,오픈시프트 (OpenShift),도구&테크놀로지
-438,오픈아이디 (OpenID),도구&테크놀로지
-439,와일드플라이 (Wildfly),도구&테크놀로지
-440,우분투 (Ubuntu),도구&테크놀로지
-441,워드프레스 (WordPress),도구&테크놀로지
-442,웹뷰 (WebView),도구&테크놀로지
-443,웹팩 (Webpack),도구&테크놀로지
-444,유니티 (Unity),도구&테크놀로지
-445,유닉스 (Unix),도구&테크놀로지
-446,이클립스 (Eclipse),도구&테크놀로지
-447,인비전 (InVision),도구&테크놀로지
-448,인텔리제이 IDEA (IntelliJ IDEA),도구&테크놀로지
-449,인플럭스 DB (InfluxDB),도구&테크놀로지
-450,일래스틱 서치 (elastic search),도구&테크놀로지
-451,일렉트론 (Electron),도구&테크놀로지
-452,자바 (Java),도구&테크놀로지
-453,자바가상머신 (JVM),도구&테크놀로지
-454,자바서버 페이지 (JSP),도구&테크놀로지
-455,자바스크립트 (Javascript),도구&테크놀로지
-456,"자연어 이해 (NLU, Natural Language Understanding)",도구&테크놀로지
-457,장고 (Django),도구&테크놀로지
-458,전사적 자원 관리 (ERP),도구&테크놀로지
-459,전송 제어 프로토콜 (TCP/IP),도구&테크놀로지
-460,전자건강기록 (EMR),도구&테크놀로지
-461,정보보호관리체계 (ISMS),도구&테크놀로지
-462,제우스 (JEUS),도구&테크놀로지
-463,제이유닛 (Junit),도구&테크놀로지
-464,제이쿼리 (jQuery),도구&테크놀로지
-465,제플린 (Zeplin),도구&테크놀로지
-466,젠 (Xen),도구&테크놀로지
-467,젠킨스 (Jenkins),도구&테크놀로지
-468,줄리아 (Julia),도구&테크놀로지
-469,지라 (Jira),도구&테크놀로지
-470,직비 (ZigBee),도구&테크놀로지
-471,"최소 기능 제품 (MVP, Minimum Viable Product)",도구&테크놀로지
-472,카르타고 (Carthage),도구&테크놀로지
-473,카탈론 스튜디오 (Katalon Studio),도구&테크놀로지
-474,캔버스 (Canvas API),도구&테크놀로지
-475,컨테이너 (Container),도구&테크놀로지
-476,컨플루언스 (Confluence),도구&테크놀로지
-477,케라스 (Keras),도구&테크놀로지
-478,코드이그나이터 (CodeIgniter),도구&테크놀로지
-479,코루틴 (Coroutine),도구&테크놀로지
-480,코코아팟 (CocoaPods),도구&테크놀로지
-481,코틀린 (Kotlin),도구&테크놀로지
-482,콘술 (Consul),도구&테크놀로지
-483,콘텐츠 전송 네트워크 (Content delivery network),도구&테크놀로지
-484,쿠버네티스 (Kubernetes),도구&테크놀로지
-485,클로저 (Clojure),도구&테크놀로지
-486,타입스크립트 (TypeScript),도구&테크놀로지
-487,태블로 (Tableau),도구&테크놀로지
-488,테라폼 (Terraform),도구&테크놀로지
-489,텐서플로 (TensorFlow),도구&테크놀로지
-490,"통합 모델링 언어 (UML, Unified Modeling Language)",도구&테크놀로지
-491,트렐로 (Trello),도구&테크놀로지
-492,파이썬 (Python),도구&테크놀로지
-493,파이어베이스 (Firebase),도구&테크놀로지
-494,펄 (Perl),도구&테크놀로지
-495,포스트맨 (Postman),도구&테크놀로지
-496,프로그레시브 웹 앱 (PWA),도구&테크놀로지
-497,플라스크 (Flask),도구&테크놀로지
-498,플러터 (Flutter),도구&테크놀로지
-499,피그마 (Figma),도구&테크놀로지
-500,하이버네이트 (Hibernate),도구&테크놀로지
-501,하이브 QL (HiveQL),도구&테크놀로지
-502,하이퍼텍스트 마크업 언어 (HTML),도구&테크놀로지
-503,화면설계서 (Wireframe),도구&테크놀로지
-504,"확장 가능한 벡터 그래픽 (SVG, Scalable Vector Graphics)",도구&테크놀로지
-505,AFNetworking,도구&테크놀로지
-506,AJAX,도구&테크놀로지
-507,Alamofire,도구&테크놀로지
-508,Amazon Kinesis,도구&테크놀로지
-509,amplitude,도구&테크놀로지
-510,AngularJS,도구&테크놀로지
-511,API gateway,도구&테크놀로지
-512,asp.net,도구&테크놀로지
-513,Atlassian Bamboo,도구&테크놀로지
-514,AWS 람다 (AWS Lambda),도구&테크놀로지
-515,AWS CloudFront,도구&테크놀로지
-516,AWS CodeBuild,도구&테크놀로지
-517,AWS Elastic Beanstalk,도구&테크놀로지
-518,bash,도구&테크놀로지
-519,C#,도구&테크놀로지
-520,C++,도구&테크놀로지
-521,C언어,도구&테크놀로지
-522,Caffe (Deep Learning Framework),도구&테크놀로지
-523,Cascading Style Sheets (CSS),도구&테크놀로지
-524,CentOs,도구&테크놀로지
-525,ChartIQ (Javascript library),도구&테크놀로지
-526,ChartJS,도구&테크놀로지
-527,Cocos2d,도구&테크놀로지
-528,Computer Telephony Integration (CTI),도구&테크놀로지
-529,CUDA,도구&테크놀로지
-530,CycleJs,도구&테크놀로지
-531,D3.js,도구&테크놀로지
-532,Dagger,도구&테크놀로지
-533,data studio,도구&테크놀로지
-534,DataBinding,도구&테크놀로지
-535,ELK Stack,도구&테크놀로지
-536,EMCA 스크립트 (ECMAScript),도구&테크놀로지
-537,ES6 (ECMAScript6),도구&테크놀로지
-538,ESLint,도구&테크놀로지
-539,ExpressJS,도구&테크놀로지
-540,Fastlane,도구&테크놀로지
-541,FFmpeg,도구&테크놀로지
-542,Fluentd,도구&테크놀로지
-543,G Suite (Google Suite),도구&테크놀로지
-544,Glide,도구&테크놀로지
-545,GO,도구&테크놀로지
-546,Gradle,도구&테크놀로지
-547,Graphol,도구&테크놀로지
-548,gRPC,도구&테크놀로지
-549,Gson,도구&테크놀로지
-550,HashiCrop Vault,도구&테크놀로지
-551,Highcharts,도구&테크놀로지
-552,HTTP,도구&테크놀로지
-553,HTTPS,도구&테크놀로지
-554,IBM 웹스피어 (IBM WebSphere),도구&테크놀로지
-555,IBM Cognos Analytics,도구&테크놀로지
-556,iOS,도구&테크놀로지
-557,JBoss,도구&테크놀로지
-558,Jetpack,도구&테크놀로지
-559,JPA (Java Persistence API),도구&테크놀로지
-560,Kendo UI,도구&테크놀로지
-561,Kibana,도구&테크놀로지
-562,LiveData,도구&테크놀로지
-563,LaTex,도구&테크놀로지
-564,Lottie,도구&테크놀로지
-565,Matplotlib,도구&테크놀로지
-566,MEAN stack,도구&테크놀로지
-567,MFC (Microsoft Foundation Class Library),도구&테크놀로지
-568,MobX,도구&테크놀로지
-569,modern c++,도구&테크놀로지
-570,MVC 패턴,도구&테크놀로지
-571,MySQL,도구&테크놀로지
-572,NestJS,도구&테크놀로지
-573,NextJS,도구&테크놀로지
-574,Nexus,도구&테크놀로지
-575,NodeJS,도구&테크놀로지
-576,NoSQL,도구&테크놀로지
-577,npm,도구&테크놀로지
-578,numpy,도구&테크놀로지
-579,NuxtJS,도구&테크놀로지
-580,OAuth,도구&테크놀로지
-581,Objective-C,도구&테크놀로지
-582,OkHttp3,도구&테크놀로지
-583,OpenCV,도구&테크놀로지
-584,OpenGL ES,도구&테크놀로지
-585,OpenTracing,도구&테크놀로지
-586,OpenVINO,도구&테크놀로지
-587,Oracle,도구&테크놀로지
-588,overflow,도구&테크놀로지
-589,Pandas,도구&테크놀로지
-590,Parcel,도구&테크놀로지
-591,PHP,도구&테크놀로지
-592,pivotal,도구&테크놀로지
-593,plainJS,도구&테크놀로지
-594,PostgreSQL,도구&테크놀로지
-595,Pytorch,도구&테크놀로지
-596,Qt Framework,도구&테크놀로지
-597,R,도구&테크놀로지
-598,React Native,도구&테크놀로지
-599,ReactorKit,도구&테크놀로지
-600,Redash,도구&테크놀로지
-601,REST API,도구&테크놀로지
-602,RESTful,도구&테크놀로지
-603,RESTful API,도구&테크놀로지
-604,Retrofit,도구&테크놀로지
-605,Retrofit2,도구&테크놀로지
-606,rollup,도구&테크놀로지
-607,rx2,도구&테크놀로지
-608,Sass,도구&테크놀로지
-609,Scouter,도구&테크놀로지
-610,SCSS,도구&테크놀로지
-611,Seaborn,도구&테크놀로지
-612,Sequalize ORM,도구&테크놀로지
-613,SFM (Structure from motion),도구&테크놀로지
-614,Spring for Apache Kafka,도구&테크놀로지
-615,SPSS,도구&테크놀로지
-616,SQL,도구&테크놀로지
-617,TensorRT,도구&테크놀로지
-618,Travis CI,도구&테크놀로지
-619,TypeORM,도구&테크놀로지
-620,Virtual DOM,도구&테크놀로지
-621,Visual Inertial Odometry (VIO),도구&테크놀로지
-622,VM웨어 (VMware),도구&테크놀로지
-623,VueJs,도구&테크놀로지
-624,WebGL,도구&테크놀로지
-625,WebRTC,도구&테크놀로지
-626,Win32 API,도구&테크놀로지
-627,Xcode,도구&테크놀로지
-628,XML (Extensible Markup Language),도구&테크놀로지
-629,Yara,도구&테크놀로지
-630,Yarn,도구&테크놀로지
-631,Z-Wave,도구&테크놀로지
-632,강의 콘텐츠,기타
-633,건강/미용,기타
-634,결과 공유,기타
-635,기술 연구,기타
-636,논리적인 커뮤니케이션,기타
-637,데이터,기타
-638,데이터 기반 의사결정,기타
-639,동영상 콘텐츠,기타
-640,라즈베리파이,기타
-641,레슨 분야,기타
-642,문서화,기타
-643,물류,기타
-644,부가가치세,기타
-645,분석,기타
-646,블루투스 (Bluetooth),기타
-647,비용 검토,기타
-648,사업 발굴,기타
-649,사용자 리서치,기타
-650,성능 측정,기타
-651,세무신고,기타
-652,소셜 네트워크 서비스 (SNS),기타
-653,수학,기타
-654,시장 trend 분석,기타
-655,알고리즘,기타
-656,애플 디자인 법칙,기타
-657,앱스토어,기타
-658,영상/소리 미디어 처리,기타
-659,영어,기타
-660,오픈소스,기타
-661,원활한 커뮤니케이션,기타
-662,웹/앱 서비스 개발/셋업/운영,기타
-663,유지 보수,기타
-664,이러닝,기타
-665,이벤트,기타
-666,자동화,기타
-667,전처리,기타
-668,지식그래프,기타
-669,최적화 기술 개발,기타
-670,커머스 개발,기타
-671,키즈노트,기타
-672,테크 블로거,기타
-673,트러블슈팅 (Trouble shooting),기타
-674,프레임워크 개발,기타
-675,프로세스 개선,기타
-676,홈/리빙,기타
-677,확률,기타
-678,회계 감사 대응,기타
-679,acm-icpc,기타
-680,agile,기타
-681,amazon alexa,기타
-682,Analytics,기타
-683,API,기타
-684,ccna,기타
-685,chatops,기타
-686,clean architecture,기타
-687,codejam,기타
-688,combine,기타
-689,core engineer,기타
-690,defcon,기타
-691,hacker cup,기타
-692,insurtech,기타
-693,iOS app 개발,기타
-694,live 기술 개발,기타
-695,log 처리,기타
-696,MarioNETte,기타
-697,material,기타
-698,mcse,기타
-699,mobile deep learning,기타
-700,open api,기타
-701,os,기타
-702,query,기타
-703,rcp,기타
-704,sqs,기타
-705,stereo camera,기타
-706,texture,기타
-707,TradingView,기타
-708,ua,기타
-709,unidirectional application,기타
-710,vod 기술 개발,기타
-711,vod 인코더 개발,기타
-712,vod 편집 기능 개발,기타
-713,xba,기타
+344,마이크로소프트 워드 (Microsoft Word),도구&테크놀로지
+345,마이크로소프트 파워포인트 (Microsoft Powerpoint),도구&테크놀로지
+346,마이크로소프트 엑셀 (Microsoft Excel),도구&테크놀로지
+347,마이크로소프트 오피스 (Microsoft Office),도구&테크놀로지
+348,마이크로소프트 하이퍼 V (Hyper-V),도구&테크놀로지
+349,마이크로소프트 SQL 서버 (MS SQL),도구&테크놀로지
+350,매트랩 (MATLAB),도구&테크놀로지
+351,맨티스 버그 추적기 (Mantis Bug Tracker),도구&테크놀로지
+352,맴캐시드 (Memcached),도구&테크놀로지
+353,맵리듀스 (MapReduce),도구&테크놀로지
+354,모의 객체 (Mock Object),도구&테크놀로지
+355,모키토 (Mokito),도구&테크놀로지
+356,몽고 DB (MongoDB),도구&테크놀로지
+357,바벨 (Babel),도구&테크놀로지
+358,부트스트랩 (Bootstrap),도구&테크놀로지
+359,부트캠프(Boot camp),도구&테크놀로지
+360,빅쿼리 (Big Query),도구&테크놀로지
+361,빗버킷 (Bitbucket),도구&테크놀로지
+362,"사용자 데이터그램 프로토콜 (UDP, User Datagram Protocol)",도구&테크놀로지
+363,사이킷런 (scikit-learn),도구&테크놀로지
+364,서버사이드 렌더링 (SSR),도구&테크놀로지
+365,"서브버전 (SVN, Subversion)",도구&테크놀로지
+366,소켓IO (Socket.IO),도구&테크놀로지
+367,솔트 (SaltStack),도구&테크놀로지
+368,쉘 스크립트 (Shell Script),도구&테크놀로지
+369,스웨거 (Swagger),도구&테크놀로지
+370,스위프트 (Swift),도구&테크놀로지
+371,스칼라 (Scala),도구&테크놀로지
+372,스케치 (Sketch),도구&테크놀로지
+373,스테레오 비전 (Stereo Vision),도구&테크놀로지
+374,스프링 루 (Spring Roo),도구&테크놀로지
+375,스프링 모바일 (Spring Mobile),도구&테크놀로지
+376,스프링 배치 (Spring Batch),도구&테크놀로지
+377,스프링 부트 (Spring Boot),도구&테크놀로지
+378,스프링 상태 머신 (Spring Statemachine),도구&테크놀로지
+379,스프링 쉘 (Spring Shell),도구&테크놀로지
+380,스프링 시큐리티 (Spring Security),도구&테크놀로지
+381,스프링 안드로이드 (Spring for Android),도구&테크놀로지
+382,스프링 클라우드 (Spring Cloud),도구&테크놀로지
+383,스프링 프레임워크 (Spring Framework),도구&테크놀로지
+384,스프링 AMQP (Spring AMQP),도구&테크놀로지
+385,스프링 CredHub (Spring CredHub),도구&테크놀로지
+386,스프링 Data (Spring Data),도구&테크놀로지
+387,스프링 Flo (Spring Flo),도구&테크놀로지
+388,스프링 HATEOAS (Spring HATEOAS),도구&테크놀로지
+389,스프링 Integration (Spring Integration),도구&테크놀로지
+390,스프링 LDAP (Spring LDAP),도구&테크놀로지
+391,스프링 MVC (Spring MVC),도구&테크놀로지
+392,스프링 REST Docs (Spring REST Docs),도구&테크놀로지
+393,스프링 Session (Spring Session),도구&테크놀로지
+394,스프링 Vault (Spring Vault),도구&테크놀로지
+395,슬랙 (Slack),도구&테크놀로지
+396,심포니 (Symfony),도구&테크놀로지
+397,아마존 관계형 데이터베이스 서비스 (Amazon RDS),도구&테크놀로지
+398,아마존 다이나모DB (Amazon DynamoDB),도구&테크놀로지
+399,아마존 알렉사 (Amazon Alexa),도구&테크놀로지
+400,아마존 알렉사 음성 서비스 (Amazon Alexa Voice Service),도구&테크놀로지
+401,아마존 웹 서비스 (AWS),도구&테크놀로지
+402,아마존 일래스틱 컨테이너 (Amazon ECS),도구&테크놀로지
+403,아마존 일래스틱 컴퓨트 클라우드 (Amazon EC2),도구&테크놀로지
+404,아마존 EKS (Amazon EKS),도구&테크놀로지
+405,아마존 ElastiCache (Amazon ElastiCache),도구&테크놀로지
+406,아마존 Redshift (Amazon Redshift),도구&테크놀로지
+407,아마존 Route 53 (Amazon Route 53),도구&테크놀로지
+408,아마존 S3 (Amazon S3),도구&테크놀로지
+409,아파치 (Apache),도구&테크놀로지
+410,아파치 메이븐 (Apache Maven),도구&테크놀로지
+411,아파치 서버 (Apache server),도구&테크놀로지
+412,아파치 스파크 (Apache Spark),도구&테크놀로지
+413,아파치 에어플로우 (Apache Airflow),도구&테크놀로지
+414,아파치 주키퍼 (Apache ZooKeeper),도구&테크놀로지
+415,아파치 카산드라 (Apache Cassandra),도구&테크놀로지
+416,아파치 카프카 (Apache Kafka),도구&테크놀로지
+417,아파치 코도바 (Apache Cordova),도구&테크놀로지
+418,아파치 톰캣 (Apache Tomcat),도구&테크놀로지
+419,아파치 하둡 (Apache Hadoop),도구&테크놀로지
+420,아파치 하이브 (Apache Hive),도구&테크놀로지
+421,아파치 HBase (Apache Hbase),도구&테크놀로지
+422,아파치 Ignite (Apache Ignite),도구&테크놀로지
+423,아폴로 (Apollo),도구&테크놀로지
+424,안드로이드 (Android),도구&테크놀로지
+425,암호화 해시 함수 (cryptographic hash),도구&테크놀로지
+426,앤서블 (Ansible),도구&테크놀로지
+427,앤트 디자인 (React Ant Design),도구&테크놀로지
+428,야믈 (Yaml),도구&테크놀로지
+429,어도비 일러스트레이터 (Adobe Illustrator),도구&테크놀로지
+430,어도비 포토샵 (Adobe Photoshop),도구&테크놀로지
+431,어도비 XD (Adobe XD),도구&테크놀로지
+432,언리얼 엔진 (Unreal Engine),도구&테크놀로지
+433,엔진 x (Ngnix),도구&테크놀로지
+434,엘름 (Elm),도구&테크놀로지
+435,오라클 웹로직 서버 (Oracle WebLogic Server),도구&테크놀로지
+436,오케스트레이션 (Orchestration),도구&테크놀로지
+437,오픈 그래픽 라이브러리 (OpenGL),도구&테크놀로지
+438,"오픈 소스 소프트웨어 (OSS, Open Source Software)",도구&테크놀로지
+439,오픈시프트 (OpenShift),도구&테크놀로지
+440,오픈아이디 (OpenID),도구&테크놀로지
+441,와일드플라이 (Wildfly),도구&테크놀로지
+442,우분투 (Ubuntu),도구&테크놀로지
+443,워드프레스 (WordPress),도구&테크놀로지
+444,웹뷰 (WebView),도구&테크놀로지
+445,웹팩 (Webpack),도구&테크놀로지
+446,유니티 (Unity),도구&테크놀로지
+447,유닉스 (Unix),도구&테크놀로지
+448,이클립스 (Eclipse),도구&테크놀로지
+449,인비전 (InVision),도구&테크놀로지
+450,인텔리제이 IDEA (IntelliJ IDEA),도구&테크놀로지
+451,인플럭스 DB (InfluxDB),도구&테크놀로지
+452,일래스틱 서치 (elastic search),도구&테크놀로지
+453,일렉트론 (Electron),도구&테크놀로지
+454,자바 (Java),도구&테크놀로지
+455,자바가상머신 (JVM),도구&테크놀로지
+456,자바서버 페이지 (JSP),도구&테크놀로지
+457,자바스크립트 (Javascript),도구&테크놀로지
+458,"자연어 이해 (NLU, Natural Language Understanding)",도구&테크놀로지
+459,장고 (Django),도구&테크놀로지
+460,전사적 자원 관리 (ERP),도구&테크놀로지
+461,전송 제어 프로토콜 (TCP/IP),도구&테크놀로지
+462,전자건강기록 (EMR),도구&테크놀로지
+463,정보보호관리체계 (ISMS),도구&테크놀로지
+464,제우스 (JEUS),도구&테크놀로지
+465,제이유닛 (Junit),도구&테크놀로지
+466,제이쿼리 (jQuery),도구&테크놀로지
+467,제플린 (Zeplin),도구&테크놀로지
+468,젠 (Xen),도구&테크놀로지
+469,젠킨스 (Jenkins),도구&테크놀로지
+470,줄리아 (Julia),도구&테크놀로지
+471,지라 (Jira),도구&테크놀로지
+472,직비 (ZigBee),도구&테크놀로지
+473,"최소 기능 제품 (MVP, Minimum Viable Product)",도구&테크놀로지
+474,카르타고 (Carthage),도구&테크놀로지
+475,카탈론 스튜디오 (Katalon Studio),도구&테크놀로지
+476,캔버스 (Canvas API),도구&테크놀로지
+477,컨테이너 (Container),도구&테크놀로지
+478,컨플루언스 (Confluence),도구&테크놀로지
+479,케라스 (Keras),도구&테크놀로지
+480,코드이그나이터 (CodeIgniter),도구&테크놀로지
+481,코루틴 (Coroutine),도구&테크놀로지
+482,코코아팟 (CocoaPods),도구&테크놀로지
+483,코틀린 (Kotlin),도구&테크놀로지
+484,콘술 (Consul),도구&테크놀로지
+485,콘텐츠 전송 네트워크 (Content delivery network),도구&테크놀로지
+486,쿠버네티스 (Kubernetes),도구&테크놀로지
+487,클로저 (Clojure),도구&테크놀로지
+488,타입스크립트 (TypeScript),도구&테크놀로지
+489,태블로 (Tableau),도구&테크놀로지
+490,테라폼 (Terraform),도구&테크놀로지
+491,텐서플로 (TensorFlow),도구&테크놀로지
+492,"통합 모델링 언어 (UML, Unified Modeling Language)",도구&테크놀로지
+493,트렐로 (Trello),도구&테크놀로지
+494,파이썬 (Python),도구&테크놀로지
+495,파이어베이스 (Firebase),도구&테크놀로지
+496,펄 (Perl),도구&테크놀로지
+497,포스트맨 (Postman),도구&테크놀로지
+498,프로그레시브 웹 앱 (PWA),도구&테크놀로지
+499,플라스크 (Flask),도구&테크놀로지
+500,플러터 (Flutter),도구&테크놀로지
+501,피그마 (Figma),도구&테크놀로지
+502,하이버네이트 (Hibernate),도구&테크놀로지
+503,하이브 QL (HiveQL),도구&테크놀로지
+504,하이퍼텍스트 마크업 언어 (HTML),도구&테크놀로지
+505,화면설계서 (Wireframe),도구&테크놀로지
+506,"확장 가능한 벡터 그래픽 (SVG, Scalable Vector Graphics)",도구&테크놀로지
+507,AFNetworking,도구&테크놀로지
+508,AJAX,도구&테크놀로지
+509,Alamofire,도구&테크놀로지
+510,Amazon Kinesis,도구&테크놀로지
+511,amplitude,도구&테크놀로지
+512,AngularJS,도구&테크놀로지
+513,API gateway,도구&테크놀로지
+514,asp.net,도구&테크놀로지
+515,Atlassian Bamboo,도구&테크놀로지
+516,AWS 람다 (AWS Lambda),도구&테크놀로지
+517,AWS CloudFront,도구&테크놀로지
+518,AWS CodeBuild,도구&테크놀로지
+519,AWS Elastic Beanstalk,도구&테크놀로지
+520,bash,도구&테크놀로지
+521,C#,도구&테크놀로지
+522,C++,도구&테크놀로지
+523,C언어,도구&테크놀로지
+524,Caffe (Deep Learning Framework),도구&테크놀로지
+525,Cascading Style Sheets (CSS),도구&테크놀로지
+526,CentOs,도구&테크놀로지
+527,ChartIQ (Javascript library),도구&테크놀로지
+528,ChartJS,도구&테크놀로지
+529,Cocos2d,도구&테크놀로지
+530,Computer Telephony Integration (CTI),도구&테크놀로지
+531,CUDA,도구&테크놀로지
+532,CycleJs,도구&테크놀로지
+533,D3.js,도구&테크놀로지
+534,Dagger,도구&테크놀로지
+535,data studio,도구&테크놀로지
+536,DataBinding,도구&테크놀로지
+537,ELK Stack,도구&테크놀로지
+538,EMCA 스크립트 (ECMAScript),도구&테크놀로지
+539,ES6 (ECMAScript6),도구&테크놀로지
+540,ESLint,도구&테크놀로지
+541,ExpressJS,도구&테크놀로지
+542,Fastlane,도구&테크놀로지
+543,FFmpeg,도구&테크놀로지
+544,Fluentd,도구&테크놀로지
+545,G Suite (Google Suite),도구&테크놀로지
+546,Glide,도구&테크놀로지
+547,GO,도구&테크놀로지
+548,Gradle,도구&테크놀로지
+549,Graphol,도구&테크놀로지
+550,gRPC,도구&테크놀로지
+551,Gson,도구&테크놀로지
+552,HashiCrop Vault,도구&테크놀로지
+553,Highcharts,도구&테크놀로지
+554,HTTP,도구&테크놀로지
+555,HTTPS,도구&테크놀로지
+556,IBM 웹스피어 (IBM WebSphere),도구&테크놀로지
+557,IBM Cognos Analytics,도구&테크놀로지
+558,iOS,도구&테크놀로지
+559,JBoss,도구&테크놀로지
+560,Jetpack,도구&테크놀로지
+561,JPA (Java Persistence API),도구&테크놀로지
+562,Kendo UI,도구&테크놀로지
+563,Kibana,도구&테크놀로지
+564,LiveData,도구&테크놀로지
+565,LaTex,도구&테크놀로지
+566,Lottie,도구&테크놀로지
+567,Matplotlib,도구&테크놀로지
+568,MEAN stack,도구&테크놀로지
+569,MFC (Microsoft Foundation Class Library),도구&테크놀로지
+570,MobX,도구&테크놀로지
+571,modern c++,도구&테크놀로지
+572,MVC 패턴,도구&테크놀로지
+573,MySQL,도구&테크놀로지
+574,NestJS,도구&테크놀로지
+575,NextJS,도구&테크놀로지
+576,Nexus,도구&테크놀로지
+577,NodeJS,도구&테크놀로지
+578,NoSQL,도구&테크놀로지
+579,npm,도구&테크놀로지
+580,numpy,도구&테크놀로지
+581,NuxtJS,도구&테크놀로지
+582,OAuth,도구&테크놀로지
+583,Objective-C,도구&테크놀로지
+584,OkHttp3,도구&테크놀로지
+585,OpenCV,도구&테크놀로지
+586,OpenGL ES,도구&테크놀로지
+587,OpenTracing,도구&테크놀로지
+588,OpenVINO,도구&테크놀로지
+589,Oracle,도구&테크놀로지
+590,overflow,도구&테크놀로지
+591,Pandas,도구&테크놀로지
+592,Parcel,도구&테크놀로지
+593,PHP,도구&테크놀로지
+594,pivotal,도구&테크놀로지
+595,plainJS,도구&테크놀로지
+596,PostgreSQL,도구&테크놀로지
+597,Pytorch,도구&테크놀로지
+598,Qt Framework,도구&테크놀로지
+599,R,도구&테크놀로지
+600,React Native,도구&테크놀로지
+601,ReactorKit,도구&테크놀로지
+602,Redash,도구&테크놀로지
+603,REST API,도구&테크놀로지
+604,RESTful,도구&테크놀로지
+605,RESTful API,도구&테크놀로지
+606,Retrofit,도구&테크놀로지
+607,Retrofit2,도구&테크놀로지
+608,rollup,도구&테크놀로지
+609,rx2,도구&테크놀로지
+610,Sass,도구&테크놀로지
+611,Scouter,도구&테크놀로지
+612,SCSS,도구&테크놀로지
+613,Seaborn,도구&테크놀로지
+614,Sequalize ORM,도구&테크놀로지
+615,SFM (Structure from motion),도구&테크놀로지
+616,Spring for Apache Kafka,도구&테크놀로지
+617,SPSS,도구&테크놀로지
+618,SQL,도구&테크놀로지
+619,TensorRT,도구&테크놀로지
+620,Travis CI,도구&테크놀로지
+621,TypeORM,도구&테크놀로지
+622,Virtual DOM,도구&테크놀로지
+623,Visual Inertial Odometry (VIO),도구&테크놀로지
+624,VM웨어 (VMware),도구&테크놀로지
+625,VueJs,도구&테크놀로지
+626,WebGL,도구&테크놀로지
+627,WebRTC,도구&테크놀로지
+628,Win32 API,도구&테크놀로지
+629,Xcode,도구&테크놀로지
+630,XML (Extensible Markup Language),도구&테크놀로지
+631,Yara,도구&테크놀로지
+632,Yarn,도구&테크놀로지
+633,Z-Wave,도구&테크놀로지
+634,강의 콘텐츠,기타
+635,건강/미용,기타
+636,결과 공유,기타
+637,기술 연구,기타
+638,논리적인 커뮤니케이션,기타
+639,데이터,기타
+640,데이터 기반 의사결정,기타
+641,동영상 콘텐츠,기타
+642,라즈베리파이,기타
+643,레슨 분야,기타
+644,문서화,기타
+645,물류,기타
+646,부가가치세,기타
+647,분석,기타
+648,블루투스 (Bluetooth),기타
+649,비용 검토,기타
+650,사업 발굴,기타
+651,사용자 리서치,기타
+652,성능 측정,기타
+653,세무신고,기타
+654,소셜 네트워크 서비스 (SNS),기타
+655,수학,기타
+656,시장 trend 분석,기타
+657,알고리즘,기타
+658,애플 디자인 법칙,기타
+659,앱스토어,기타
+660,영상/소리 미디어 처리,기타
+661,영어,기타
+662,오픈소스,기타
+663,원활한 커뮤니케이션,기타
+664,웹/앱 서비스 개발/셋업/운영,기타
+665,유지 보수,기타
+666,이러닝,기타
+667,이벤트,기타
+668,자동화,기타
+669,전처리,기타
+670,지식그래프,기타
+671,최적화 기술 개발,기타
+672,커머스 개발,기타
+673,키즈노트,기타
+674,테크 블로거,기타
+675,트러블슈팅 (Trouble shooting),기타
+676,프레임워크 개발,기타
+677,프로세스 개선,기타
+678,홈/리빙,기타
+679,확률,기타
+680,회계 감사 대응,기타
+681,acm-icpc,기타
+682,agile,기타
+683,amazon alexa,기타
+684,Analytics,기타
+685,API,기타
+686,ccna,기타
+687,chatops,기타
+688,clean architecture,기타
+689,codejam,기타
+690,combine,기타
+691,core engineer,기타
+692,defcon,기타
+693,hacker cup,기타
+694,insurtech,기타
+695,iOS app 개발,기타
+696,live 기술 개발,기타
+697,log 처리,기타
+698,MarioNETte,기타
+699,material,기타
+700,mcse,기타
+701,mobile deep learning,기타
+702,open api,기타
+703,os,기타
+704,query,기타
+705,rcp,기타
+706,sqs,기타
+707,stereo camera,기타
+708,texture,기타
+709,TradingView,기타
+710,ua,기타
+711,unidirectional application,기타
+712,vod 기술 개발,기타
+713,vod 인코더 개발,기타
+714,vod 편집 기능 개발,기타
+715,xba,기타

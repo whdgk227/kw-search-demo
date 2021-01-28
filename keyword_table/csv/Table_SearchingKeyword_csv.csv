@@ -1052,1154 +1052,1167 @@ searching_keyword_sn,representation_keyword_sn,searching_keyword
 1051,343,Microsoft Azure
 1052,343,마이크로소프트 Azure
 1053,343,Microsoft 애저
-1054,344,excel
-1055,344,엑셀
-1056,344,Microsoft Excel
-1057,344,마이크로소프트 엑셀
-1058,344,마이크로소프트 Excel
-1059,345,ms office
-1060,345,office
-1061,345,마이크로소프트 오피스
-1062,345,오피스
-1063,345,Microsoft office
-1064,345,마이크로소프트 Office
-1065,346,hyper-v
-1066,346,하이퍼-v
-1067,346,하이퍼 v
-1068,346,마이크로소프트 하이퍼v
-1069,346,Microsoft hyper-v
-1070,346,Microsoft 하이퍼v
-1071,346,마이크로소프트 hyper-v
-1072,347,ms sql
-1073,347,마이크로소프트 SQL 서버
-1074,347,Microsoft SQL server
-1075,347,Microsoft SQL 서버
-1076,347,마이크로소프트 SQL server
-1077,347,ms sql server
-1078,347,ms sql 서버
-1079,348,MATLAB
-1080,348,매트랩
-1081,348,맷랩
-1082,348,맽랩
-1083,348,매틀랩
-1084,348,메트랩
-1085,348,Mathworks
-1086,348,멧랩
-1087,349,mantis bug tracker
-1088,349,맨티스
-1089,349,맨티스 버그 추적기
-1090,349,Mantis
-1091,349,멘티스
-1092,349,맨티스 버그 트래커
-1093,349,맨티스 버그 트랙커
-1094,349,멘티스 버그 트래커
-1095,350,memcached
-1096,350,맴캐시디
-1097,350,맴캐시트
-1098,350,맴캐시드
-1099,350,맴캐쉬드
-1100,351,mapreduce
-1101,351,맵리듀스
-1102,351,맵Reduce
-1103,351,Map리듀스
-1104,352,mock object
-1105,352,모의 객체
-1106,353,mockito
-1107,353,모키토
-1108,353,목키토
-1109,353,모기토
-1110,353,모킷토
-1111,353,목킷토
-1112,354,mongodb
-1113,354,몽고 db
-1114,354,mongo database
-1115,354,몽고디비
-1116,355,babel
-1117,355,바벨
-1118,356,bootstrap
-1119,356,부트스트랩
-1120,356,붓스트랩
-1121,356,부트스트렙
-1122,357,부트캠프
-1123,357,boot camp
-1124,358,bigquery
-1125,358,빅쿼리
-1126,359,bitbucket
-1127,359,빗버킷
-1128,359,비트버킷
-1129,359,Atlassian Bitbucket
-1130,359,Atlassian 빗버킷
-1131,359,Atlassian 비트버킷
-1132,359,빗트버킷
-1133,359,Atlassian 빗트버킷
-1134,360,udp
-1135,360,사용자 데이터그램 프로토콜
-1136,360,User Datagram Protocol
-1137,361,scikit-learn
-1138,361,사이킷런
-1139,361,sklearn
-1140,362,ssr
-1141,362,Server-side rendering
-1142,362,SSR
-1143,362,에스에스알
-1144,363,svn
-1145,363,서브버전
-1146,363,subversion
-1147,364,socket.io
-1148,364,소켓IO
-1149,365,saltstack
-1150,365,솔트
-1151,366,shell script
-1152,366,쉘 스크립트
-1153,366,shell
-1154,366,bash shell
-1155,367,swagger
-1156,367,스웨거
-1157,367,swagger api
-1158,368,swift
-1159,368,스위프트
-1160,369,scala
-1161,369,스칼라
-1162,369,Scalable Language
-1163,370,sketch
-1164,370,스케치
-1165,370,UI
-1166,370,macOS sketch
-1167,371,stereo vision
-1168,371,스테레오 비전
-1169,372,Spring Roo
-1170,372,스프링 루
-1171,373,Spring Mobile
-1172,373,스프링 모바일
-1173,374,Spring Batch
-1174,374,스프링 배치
-1175,374,스프링 batch
-1176,375,spring boot
-1177,375,스프링 부트
-1178,376,Spring Statemachine
-1179,376,스프링 상태 머신
-1180,377,Spring Shell
-1181,377,스프링 쉘
-1182,378,spring security
-1183,378,스프링 시큐리티
-1184,378,스프링 security
-1185,379,Spring for Android
-1186,379,스프링 안드로이드
-1187,380,spring cloud
-1188,380,스프링 클라우드
-1189,380,스프링 cloud
-1190,381,spring
-1191,381,spring framework
-1192,381,스프링 프레임워크
-1193,382,Spring AMQP
-1194,382,스프링 amqp
-1195,383,Spring CredHub
-1196,383,스프링 CredHub
-1197,384,spring data
-1198,384,스프링 data
-1199,385,Spring Flo
-1200,385,스프링 Flo
-1201,386,Spring HATEOAS
-1202,386,hypermedia As The Engine Of Application State
-1203,387,spring integration
-1204,387,스프링 integration
-1205,388,Spring LDAP
-1206,388,스프링 LDAP
-1207,389,spring mvc
-1208,389,스프링 Mvc
-1209,389,model view controller
-1210,390,Spring REST Docs
-1211,390,스프링 REST Docs
-1212,391,spring session
-1213,391,스프링 session
-1214,392,Spring Vault
-1215,392,스프링 Vault
-1216,393,slack
-1217,393,슬랙
-1218,394,심포니
-1219,394,Symfony
-1220,395,rds
-1221,395,관계형 데이터베이스 서비스
-1222,395,Amazon Rds
-1223,395,Amazon relational database service
-1224,396,dynamodb
-1225,396,다이나모
-1226,396,아마존 다이나모
-1227,396,amazon dynamo
-1228,396,아마존 다이나모DB
-1229,396,amazon dynamo DB
-1230,396,Dynamo DB
-1231,396,다이나모DB
-1232,396,AWS 다이나모
-1233,396,AWS dynamo
-1234,396,AWS 다이나모DB
-1235,396,AWS dynamo DB
-1236,397,alexa
-1237,397,알렉사
-1238,397,아마존 알렉사
-1239,397,Amazon alexa
-1240,397,Amazon 알렉사
-1241,397,아마존 Alexa
-1242,398,alexa voice service
-1243,398,avs
-1244,398,amazon avs
-1245,398,아마존 avs
-1246,398,amazon alexa avs
-1247,399,aws
-1248,399,amazon web service
-1249,399,아마존 웹 서비스
-1250,399,amazon 웹 서비스
-1251,399,아마존 web service
-1252,399,아마존 web 서비스
-1253,399,amazon 웹 service
-1254,400,ecs
-1255,400,amazon ecs
-1256,400,아마존 일래스틱
-1257,400,아마존 엘라스틱
-1258,401,ec2
-1259,401,Elastic compute cloud
-1260,401,amazon eleastic
-1261,401,아마존 일래스틱
-1262,401,아마존 elastic
-1263,401,아마존 엘라스틱
-1264,401,아마존 일래스틱 컴퓨트 클라우드
-1265,401,아마존 엘라스틱 컴퓨트 클라우드
-1266,401,엘라스틱 컴퓨트 클라우드
-1267,401,엘라스틱 컴퓨트 클라우드
-1268,401,AWS EC2
-1269,401,Amazon EC2
-1270,402,eks
-1271,402,Amazon Elastic Kubernetes Service
-1272,402,아마존 일래스틱
-1273,402,쿠버네틱스
-1274,402,관리형 쿠버네티스 서비스
-1275,402,관리형 Kubernates
-1276,403,elasticache
-1277,403,아마존 일래스틱 캐시
-1278,403,아마존 엘라스틱 캐시
-1279,403,일래스틱 캐시
-1280,403,엘라스틱 캐시
-1281,403,Amazon ElastiCache
-1282,403,아마존 ElastiCache
-1283,403,엘라스티캐시
-1284,403,일래스티캐시
-1285,403,일라스틱캐시
-1286,404,redshift
-1287,404,Amazon redshift
-1288,404,아마존 레드시프트
-1289,404,레드시프트
-1290,404,레드쉬프트
-1291,404,아마존레드쉬프트
-1292,405,route53
-1293,405,Amazon Route 53
-1294,405,아마존 Route 53
-1295,405,아마존 라우트 53
-1296,405,아마존 로트 53
-1297,405,아마존 루트 53
-1298,405,Amazon 라우트 53
-1299,405,Amazon 로트 53
-1300,405,Amazon 루트 53
-1301,406,s3
-1302,406,amazon s3
-1303,406,simple storage service
-1304,406,에스스리
-1305,406,에스쓰리
-1306,406,아마존 s3
-1307,407,아파치
-1308,407,apache
-1309,408,maven
-1310,408,아파치 메이븐
-1311,408,apache maven
-1312,408,아파치 maven
-1313,408,apache 메이븐
-1314,408,메이븐
-1315,409,아파치 서버
-1316,409,apache server
-1317,409,아파치 HTTP 서버
-1318,409,apache HTTP server
-1319,410,spark
-1320,410,스파크
-1321,410,apache spark
-1322,410,아파치 스파크
-1323,411,airflow
-1324,411,apache airflow
-1325,411,에어플로우
-1326,411,아파치 에어플로우
-1327,412,zookeeper
-1328,412,apache zookeeper
-1329,412,아파치 주키퍼
-1330,412,아파치 zookeeper
-1331,413,cassandra
-1332,413,apache cassandra
-1333,413,아파치 카산드라
-1334,413,카산드라
-1335,414,kafka
-1336,414,카프카
-1337,414,아파치 카프카
-1338,414,Apache kafka
-1339,414,아파치 kafka
-1340,414,Apache 카프카
-1341,415,cordova
-1342,415,apahce cordova
-1343,415,코도바
-1344,415,아파치 코도바
-1345,415,아파치 cordova
-1346,415,Apache 코도바
-1347,416,톰캣
-1348,416,tomcat
-1349,416,아파치 톰캣
-1350,416,apache tomcat
-1351,416,아파치 tomcat
-1352,416,apache 톰켓
-1353,417,hadoop
-1354,417,하둡
-1355,417,아파치 하둡
-1356,417,High-Availability Distributed Object-Oriented Platform
-1357,417,apache hadoop
-1358,417,아파치 hadoop
-1359,417,apache 하둡
-1360,418,hive
-1361,418,하이브
-1362,418,아파치 하이브
-1363,418,apache hive
-1364,418,아파치 hive
-1365,418,apache 하이브
-1366,419,hbase
-1367,419,아파치 Hbase
-1368,419,Apache Hbase
-1369,420,ignite
-1370,420,아파치 ignite
-1371,420,apache ignite
-1372,420,이그나이트
-1373,420,아파치 이그나이트
-1374,420,apache 이그나이트
-1375,420,익나이트
-1376,420,아파치 익나이트
-1377,421,Apollo
-1378,421,Apollo client
-1379,421,아폴로
-1380,422,android
-1381,422,안드로이드
-1382,423,cryptographic hash
-1383,423,암호화 해시 함수
-1384,423,암호학적 해시 함수
-1385,423,암호화 해쉬 함수
-1386,423,암호학적 해쉬 함수
-1387,424,ansible
-1388,424,앤서블
-1389,425,antd
-1390,425,react antd
-1391,425,react ant design
-1392,425,앤트 디자인
-1393,425,리액트 앤트 디자인
-1394,425,react 앤트 디자인
-1395,425,react Ant 디자인
-1396,425,리액트 Ant 디자인
-1397,425,react ant 디자인
-1398,426,yaml
-1399,426,YAML Ain't Markup Language
-1400,426,야믈
-1401,427,일러스트레이터
-1402,427,illustrator
-1403,427,어도비 일러스트레이터
-1404,427,Adobe illustrator
-1405,427,Adobe 일러스트레이터
-1406,427,어도비 illustrator
-1407,428,포토샵
-1408,428,Photoshop
-1409,428,어도비 포토샵
-1410,428,Adobe photoshop
-1411,428,Adobe 포토샵
-1412,428,어도비 Photoshop
-1413,429,xd
-1414,429,adobe xd
-1415,429,어도비 xd
-1416,430,언리얼 엔진
-1417,430,unreal engine
-1418,430,unreal 엔진
-1419,430,언리얼 engine
-1420,431,nginx
-1421,431,엔진x
-1422,432,elm
-1423,432,엘름
-1424,432,엘룸
-1425,433,weblogic server
-1426,433,오라클
-1427,433,웹로직
-1428,433,oracle weblogic server
-1429,434,orchestration
-1430,434,오케스트레이션
-1431,434,컨테이너 오케스트레이션
-1432,435,opengl
-1433,435,오픈 그래픽 라이브러리
-1434,435,오픈쥐엘
-1435,435,오픈지엘
-1436,435,오픈GL
-1437,435,Open graphic library
-1438,436,oss
-1439,436,오픈소스 소프트웨어
-1440,436,open source software
-1441,437,openshift
-1442,437,오픈시프트
-1443,437,오픈쉬프트
-1444,437,open쉬프트
-1445,437,open시프트
-1446,438,openid
-1447,438,오픈아이디
-1448,438,open아이디
-1449,438,오픈id
-1450,439,wildfly
-1451,439,와일드플라이
-1452,440,ubuntu
-1453,440,우분투
-1454,440,linux ubuntu
-1455,441,워드프레스
-1456,441,wordpress
-1457,442,webview
-1458,442,웹뷰
-1459,443,webpack
-1460,443,웹팩
-1461,444,유니티
-1462,444,unity
-1463,445,unix
-1464,445,유닉스
-1465,445,macos
-1466,446,eclipse
-1467,446,이클립스
-1468,447,invision
-1469,447,인비전
-1470,448,intellij idea
-1471,448,인텔리제이
-1472,448,jetbrains
-1473,448,intelliJ
-1474,449,influxdb
-1475,449,influx database
-1476,449,인플럭스 데이터베이스
-1477,450,elastic search
-1478,450,일래스틱 서치
-1479,450,엘라스틱 서치
-1480,451,electron
-1481,451,일랙트론
-1482,451,일렉트론
-1483,452,자바
-1484,452,JAVA
-1485,453,jvm
-1486,453,자바가상머신
-1487,453,java virtual machine
-1488,454,jsp
-1489,454,JavaServer Pages
-1490,454,자바서버 페이지
-1491,455,자바스크립트
-1492,455,javascript
-1493,455,JS
-1494,456,nlu
-1495,456,자연어 이해
-1496,456,Natural Language Understanding
-1497,457,django
-1498,457,쟝고
-1499,457,장고
-1500,458,erp
-1501,458,전사적 자원 관리
-1502,458,Enterprise Resource Planning
-1503,458,이알피
-1504,459,tcp/ip
-1505,459,Transmission Control Protocol/Internet Protocol
-1506,460,emr
-1507,460,전자건강기록
-1508,460,Electronic Medical Record
-1509,461,정보보호관리체계
-1510,461,Information Security Management System
-1511,461,isms
-1512,462,jeus
-1513,462,Java Enterprise User Solution
-1514,462,티맥스소프트 제우스
-1515,462,tmaxsoft
-1516,462,제우스
-1517,462,tmaxsoft jeus
-1518,462,tmaxsoft 제우스
-1519,463,junit
-1520,463,제이유닛
-1521,464,jquery
-1522,464,제이쿼리
-1523,464,jquery plugin
-1524,465,zeplin
-1525,465,제플린
-1526,466,xen
-1527,466,젠
-1528,467,jenkins
-1529,467,젠킨스
-1530,467,젠킨즈
-1531,467,잰킨스
-1532,467,잰킨즈
-1533,468,julia
-1534,468,줄리아
-1535,468,쥴리아
-1536,469,jira
-1537,469,지라
-1538,469,jira software
-1539,470,zigbee
-1540,470,직비
-1541,471,mvp
-1542,471,최소 기능 제품
-1543,471,Minimum Viable Product
-1544,472,carthage
-1545,472,카르타고
-1546,472,카타고
-1547,472,칼타고
-1548,472,카르타그
-1549,472,칼타그
-1550,473,katalon
-1551,473,카탈론
-1552,473,카탈론 스튜디오
-1553,473,katalon studio
-1554,473,카탈론 studio
-1555,473,katalon 스튜디오
-1556,473,카달론
-1557,474,canvas api
-1558,474,캔버스
-1559,474,Canvas
-1560,475,container
-1561,475,컨테이너
-1562,475,콘테이너
-1563,476,컨플루언스
-1564,476,confluence
-1565,477,케라스
-1566,477,keras
-1567,478,codeigniter
-1568,478,코드이그나이터
-1569,478,codeigniter web framework
-1570,479,coroutine
-1571,479,코루틴
-1572,479,Kotlin Coroutine
-1573,479,콜틴
-1574,480,cocoapods
-1575,480,코코아팟
-1576,481,kotlin
-1577,481,코틀린
-1578,482,consul
-1579,482,콘술
-1580,483,cdn
-1581,483,Content delivery network
-1582,483,콘텐츠 전송 네트워크
-1583,483,컨텐츠 전송 네트워크
-1584,484,Kubernetes
-1585,484,쿠버네티스
-1586,484,k8s
-1587,484,쿠버네틱스
-1588,485,clojure
-1589,485,클로저
-1590,485,클로져
-1591,486,타입스크립트
-1592,486,typescript
-1593,487,tableau
-1594,487,태블로
-1595,488,terraform
-1596,488,테라폼
-1597,489,tensorflow
-1598,489,텐서플로우
-1599,489,tf
-1600,489,텐서플로
-1601,490,uml
-1602,490,통합 모델링 언어
-1603,490,Unified Modeling Language
-1604,491,trello
-1605,491,트렐로
-1606,492,파이썬
-1607,492,파이톤
-1608,492,Python
-1609,492,파이쏜
-1610,492,파이턴
-1611,492,파이떤
-1612,492,파이똔
-1613,493,firebase
-1614,493,파이어베이스
-1615,493,화이어베이스
-1616,494,perl
-1617,494,펄
-1618,495,postman
-1619,495,포스트맨
-1620,496,pwa
-1621,496,프로그레시브 웹 앱
-1622,496,Progressive Web App
-1623,497,flask
-1624,497,플라스크
-1625,497,플래스크
-1626,498,flutter
-1627,498,플러터
-1628,499,figma
-1629,499,피그마
-1630,500,hibernate
-1631,500,하이버네이트
-1632,500,히버네이트
-1633,501,hiveql
-1634,501,하이브 ql
-1635,501,아파치 하이브ql
-1636,501,apache hiveQL
-1637,501,아파치 hiveQL
-1638,501,apache 하이브QL
-1639,502,html
-1640,502,Hypertext Markup Language
-1641,502,하이퍼텍스트
-1642,503,wireframe
-1643,503,화면설계서
-1644,503,와이어프레임
-1645,504,svg
-1646,504,Scalable Vector Graphics
-1647,504,확장 가능한 벡터 그래픽
-1648,505,afnetworking
-1649,506,ajax
-1650,506,Asynchronous Javascript And Xml
-1651,506,아작스
-1652,506,에이작스
-1653,506,에이젝스
-1654,506,아젝스
-1655,507,alamofire
-1656,508,kinesis
-1657,508,aws kinesis
-1658,508,아마존 kinesis
-1659,508,Amazon Kiness
-1660,508,키네시스
-1661,508,아마존 키네시스
-1662,508,Amazon 키네시스
-1663,508,AWS 키네시스
-1664,509,amplitude
-1665,510,angularjs
-1666,511,api gateway
-1667,511,Amazon API Gateway
-1668,511,아마존 API gateway
-1669,512,asp.net
-1670,513,bamboo
-1671,513,Atlassian Bamboo
-1672,513,밤부
-1673,513,Atlassian 밤부
-1674,513,아틀라시안 밤부
-1675,513,아틀라시안 Bamboo
-1676,514,aws lambda
-1677,514,lambda
-1678,514,람다
-1679,515,cloudfront
-1680,515,클라우드프론트
-1681,515,아마존 클라우드프론트
-1682,515,Aws cloudfront
-1683,515,CDN
-1684,515,아마존 CloudFront
-1685,515,Amazon 클라우드프론트
-1686,515,AWS 클라우드프론트
-1687,516,codebuild
-1688,516,aws codebuild
-1689,516,아마존 codebuild
-1690,516,아마존 코드빌드
-1691,517,beanstalk
-1692,517,빈즈토크
-1693,517,AWS Elastic Beanstalk
-1694,517,AWS 일래스틱 빈즈토크
-1695,517,AWS 엘라스틱 빈즈토크
-1696,517,AWS 엘라스틱 beanstalk
-1697,517,AWS 엘라스틱 beanstalk
-1698,517,AWS Elastic 빈즈토크
-1699,517,빈스토크
-1700,517,엘라스틱 빈즈토크
-1701,517,일래스틱 빈즈토크
-1702,517,엘라스틱 Beanstalk
-1703,517,일래스틱 Beanstalk
-1704,517,Elastic 빈즈토크
-1705,517,Elastic 빈스토크
-1706,518,bash
-1707,518,배시
-1708,518,배쉬
-1709,519,c#
-1710,519,씨샵
-1711,519,C++++
-1712,519,C샵
-1713,520,c++
-1714,520,cpp
-1715,520,씨플플
-1716,520,시플플
-1717,520,씨피피
-1718,520,C플플
-1719,521,c
-1720,521,c 언어
-1721,521,C language
-1722,521,C Lang
-1723,522,caffe
-1724,522,카페
-1725,523,css
-1726,523,Cascading Style Sheets
-1727,524,centos
-1728,524,센트오에스
-1729,524,linux-CentOS
-1730,524,unix-CentOs
-1731,525,chartiq
-1732,525,차트아이큐
-1733,525,챠트아이큐
-1734,526,chartjs
-1735,527,cocos2d
-1736,527,cocos2d-x
-1737,527,코코스2d
-1738,527,코코스2d-x
-1739,528,cti
-1740,528,Computer Telephony Integration
-1741,528,컴퓨터 전화 통합
-1742,529,cuda
-1743,529,Compute Unified Device Architecture
-1744,529,쿠다
-1745,530,cycle.js
-1746,531,D3.js
-1747,531,d3
-1748,531,d3js
-1749,532,dagger
-1750,532,대거
-1751,532,다거
-1752,533,data studio
-1753,533,Google data studio
-1754,534,databinding
-1755,534,데이터바인딩
-1756,534,데이타바인딩
-1757,534,데이터결합
-1758,535,elk stack
-1759,535,elasticsearch
-1760,535,logstash
-1761,535,kibana
-1762,535,스택
-1763,535,elastic stack
-1764,535,엘라스틱 스택
-1765,535,일래스틱 스택
-1766,535,일래스틱 stack
-1767,535,엘라스틱 stack
-1768,535,elastic 스택
-1769,536,ecmascript
-1770,536,EMCA
-1771,536,Enterprise Manager Configuration Assistant
-1772,537,es6
-1773,537,ECMA스크립트
-1774,537,ECMA
-1775,538,es lint
-1776,538,ES린트
-1777,538,이에스린트
-1778,538,이에스lint
-1779,539,expressjs
-1780,539,익스프레스
-1781,540,fastlane
-1782,540,Fast랜
-1783,540,패스트랜
-1784,540,패스트란
-1785,540,Fast란
-1786,541,ffmpeg
-1787,542,fluentd
-1788,542,플루언트
-1789,543,google suite
-1790,543,GSuite
-1791,543,구글 워크스페이스
-1792,543,구글 Suite
-1793,543,Google 시트
-1794,543,G시트
-1795,543,구글 시트
-1796,543,구글 슈트
-1797,543,구글 수트
-1798,543,구글 쉿
-1799,544,glide
-1800,544,글라이드
-1801,545,GO
-1802,545,golang
-1803,545,고
-1804,546,gradle
-1805,546,그래들
-1806,546,그레이들
-1807,546,Gradle Build Tool
-1808,547,graphol
-1809,547,그래폴
-1810,547,그래프올
-1811,548,gRPC
-1812,548,Remote Procedure Call
-1813,548,google Remote Procedure Call
-1814,548,google RPC
-1815,549,gson
-1816,549,google gson
-1817,550,vault
-1818,550,HashiCrop Vault
-1819,551,highchart
-1820,551,하이차트
-1821,551,highcharts
-1822,552,http
-1823,552,HyperText Transfer Protocol
-1824,553,https
-1825,553,HyperText Transfer Protocol over Secure Socket Layer
-1826,553,HTTP over TLS
-1827,553,HTTP over SSL
-1828,553,HTTP Secure
-1829,554,websphere
-1830,554,IBM 웹스피어
-1831,554,웹스피어
-1832,555,cognos
-1833,555,Cognos Analytics
-1834,555,IBM Cognos Analytics
-1835,555,코그노스
-1836,555,IBM 코그노스 Analytics
-1837,556,iOS
-1838,556,아이오에스
-1839,557,jboss
-1840,558,jetpack
-1841,558,android jetpack
-1842,558,Android Jetpack
-1843,558,잿팩
-1844,558,젯팩
-1845,559,JPA
-1846,559,java persistence api
-1847,559,자바 퍼시스턴스 API
-1848,559,JAVA 퍼시스턴스 API
-1849,559,자바 Persistence API
-1850,559,자바 퍼시스턴스
-1851,559,java persistence
-1852,560,Kendo UI
-1853,560,kendoui
-1854,560,켄도 유아이
-1855,560,켄도UI
-1856,560,Kendo유아이
-1857,561,kibana
-1858,561,키바나
-1859,561,ELKR
-1860,562,LiveData
-1861,562,라이브데이터
-1862,562,라이브데이타
-1863,563,LaTex
-1864,563,레이텍
-1865,564,lottie
-1866,564,로티
-1867,564,로띠
-1868,565,matplotlib
-1869,565,맷플롯립
-1870,565,맷트플랏
-1871,565,매트플랏
-1872,566,mean stack
-1873,566,MEAN
-1874,566,민 스택
-1875,566,민
-1876,567,mfc
-1877,567,MFC
-1878,567,마이크로소프트 파운데이션 클래스 라이브러리
-1879,567,Microsoft Foundation Class Library
-1880,567,엠에프씨
-1881,568,mobx
-1882,569,modern c++
-1883,569,모던 c++
-1884,569,mordern cpp
-1885,569,모던 cpp
-1886,570,mvc pattern
-1887,570,model view controller
-1888,570,모델 뷰 컨트롤러
-1889,571,mysql
-1890,571,마이에스큐엘
-1891,571,마이SQL
-1892,572,nestjs
-1893,572,네스트js
-1894,573,next.js
-1895,573,next
-1896,573,넥스트
-1897,574,nexus
-1898,574,넥서스
-1899,575,노드제이에스
-1900,575,node.js
-1901,575,node 제이에스
-1902,575,노드js
-1903,576,nosql
-1904,576,노sql
-1905,576,No에스큐엘
-1906,576,Non SQL
-1907,576,non relational
-1908,577,npm
-1909,577,Node Package Manager
-1910,577,엔피엠
-1911,577,엔피앰
-1912,578,numpy
-1913,578,넘파이
-1914,579,Nuxt.js
-1915,579,nuxt
-1916,579,눅스트
-1917,580,oauth
-1918,581,object-c
-1919,581,Objective-c
-1920,581,오브젝트씨
-1921,581,오브젝티브씨
-1922,581,오브젝트C
-1923,581,오브젝티브C
-1924,582,okhttp3
-1925,583,opencv
-1926,583,오픈CV
-1927,583,오픈씨브이
-1928,583,오픈씨븨
-1929,584,opengl es
-1930,584,오픈 그래픽 라이브러리 es
-1931,584,오픈쥐엘es
-1932,584,오픈지엘es
-1933,584,오픈GLes
-1934,584,Open graphic library ES
-1935,585,opentracing
-1936,585,오픈트레이싱
-1937,585,open트레이싱
-1938,585,오픈tracing
-1939,586,OpenVINO
-1940,586,오픈비노
-1941,586,openvino
-1942,586,오픈VINO
-1943,587,oracle
-1944,587,오라클
-1945,588,overflow
-1946,588,오버플로우
-1947,588,css overflow
-1948,588,css 오버플로우
-1949,589,pandas
-1950,589,판다스
-1951,590,parcel
-1952,590,퍼셀
-1953,590,퍼쎌
-1954,590,파셀
-1955,590,파쎌
-1956,591,php
-1957,591,Personal Hypertext Preprocessor
-1958,592,pivotal
-1959,593,plain javascript
-1960,593,plainjs
-1961,594,PostgreSQL
-1962,594,포스트그레스큐엘
-1963,595,pytorch
-1964,595,파이토치
-1965,595,torch
-1966,595,토치
-1967,596,Qt
-1968,596,큐티
-1969,596,Qt Framework
-1970,597,R
-1971,597,알
-1972,597,R studio
-1973,598,native
-1974,598,react native
-1975,598,리액트 네이티브
-1976,598,네이티브
-1977,599,reactorkit
-1978,599,리액터Kit
-1979,599,리액터킷
-1980,599,reactor킷
-1981,599,reactor킷트
-1982,599,리액터키트
-1983,599,리액터킷트
-1984,600,redash
-1985,601,rest api
-1986,601,Representational State Transfer
-1987,601,레스트API
-1988,602,restful
-1989,603,restful api
-1990,603,restful api
-1991,604,retrofit
-1992,604,레트로핏
-1993,604,레트로fit
-1994,604,retro핏
-1995,605,retrofit2
-1996,605,레트로핏2
-1997,605,레트로fit2
-1998,605,retro핏2
-1999,606,rollup
-2000,606,롤업
-2001,607,rx2
-2002,608,sass
-2003,608,사스
-2004,609,scouter
-2005,609,스카우터
-2006,609,LG scouter
-2007,609,scouter APM
-2008,610,scss
-2009,611,seaborn
-2010,611,sns
-2011,611,시본
-2012,611,씨본
-2013,611,matplotlib
-2014,611,pyplot
-2015,612,sequelize orm
-2016,613,structure from motion
-2017,613,SFM
-2018,614,Spring for Apache Kafka
-2019,615,spss
-2020,615,Statistical Package for the Social Sciences
-2021,615,사회과학을 위한 통계 처리
-2022,615,에스피에스에스
-2023,616,SQL
-2024,616,Structured Query Language
-2025,616,에스큐엘
-2026,617,TensorRT
-2027,617,tensorflowRT
-2028,617,텐서플로우RT
-2029,617,텐서플로RT
-2030,617,tfRT
-2031,618,travis ci
-2032,619,typeorm
-2033,619,object relational mapping
-2034,619,typescript
-2035,620,virtual dom
-2036,621,vio
-2037,621,Visual Inertial Odometry
-2038,622,vmware
-2039,622,VM웨어
-2040,622,가상머신
-2041,622,virtual machine
-2042,623,vue.js
-2043,623,vuex
-2044,623,뷰
-2045,624,webgl
-2046,624,web graphics library
-2047,625,webrtc
-2048,625,Web Real-Time Communication
-2049,626,win32 api
-2050,627,xcode
-2051,627,엑스코드
-2052,628,xml
-2053,628,Extensible Markup Language
-2054,628,엑스엠엘
-2055,629,yara
-2056,630,yarn
-2057,631,z-wave
-2058,631,지 웨이브
-2059,632,강의 콘텐츠
-2060,633,건강/미용
-2061,634,결과 공유
-2062,635,기술 연구
-2063,636,논리적인 커뮤니케이션
-2064,637,데이터
-2065,637,데이타
-2066,637,data
-2067,638,데이터 기반 의사결정
-2068,639,동영상 콘텐츠
-2069,640,라즈베리파이
-2070,640,Raspberry Pi
-2071,641,레슨 분야
-2072,642,문서화
-2073,642,documentation
-2074,643,물류
-2075,644,부가세
-2076,644,부가가치세
-2077,644,Value-added tax
-2078,644,VAT
-2079,644,goods and services tax
-2080,644,GST
-2081,645,분석
-2082,645,analysis
-2083,646,Bluetooth
-2084,646,bt
-2085,646,블루투스
-2086,646,브루투스
-2087,647,비용 검토
-2088,648,사업 발굴
-2089,649,사용자 리서치
-2090,650,성능 측정
-2091,651,세무신고
-2092,652,sns
-2093,652,social network service
-2094,652,소셜 네트워크 서비스
-2095,653,수학
-2096,653,Mathmatics
-2097,654,시장 trend 분석
-2098,655,알고리즘
-2099,656,애플 디자인 법칙
-2100,657,앱스토어
-2101,658,영상/소리 미디어 처리
-2102,659,영어
-2103,659,English
-2104,660,오픈소스
-2105,660,오픈 소스
-2106,660,Open source
-2107,660,opensource
-2108,660,오픈소스 기여
-2109,661,원활한 커뮤니케이션
-2110,662,웹/앱 서비스 개발/셋업/운영
-2111,663,유지 보수
-2112,663,maintenance
-2113,664,이러닝
-2114,665,이벤트
-2115,665,Event
-2116,666,자동화
-2117,667,전처리
-2118,667,preprocessing
-2119,668,지식그래프
-2120,668,knowledge graph
-2121,669,최적화 기술 개발
-2122,670,커머스 개발
-2123,671,키즈노트
-2124,672,테크 블로거
-2125,672,tech blogger
-2126,672,tech blog
-2127,673,이슈 트러블슈팅
-2128,673,trouble shooting
-2129,673,트러블슈팅
-2130,673,issue trouble shooting
-2131,674,프레임웍개발
-2132,674,프레임웍개발
-2133,674,framework development
-2134,675,프로세스 개선
-2135,676,홈/리빙
-2136,677,확률
-2137,677,probability
-2138,678,회계 감사 대응
-2139,679,acm-icpc
-2140,679,ACM 국제 대학생 프로그래밍 대회
-2141,679,International Collegiate Programming Contest
-2142,680,agile
-2143,680,애자일
-2144,681,amazon alexa
-2145,682,analytics
-2146,682,아날리틱스
-2147,682,애널리틱스
-2148,683,API
-2149,683,Application Programming Interface
-2150,684,ccna
-2151,685,chatops
-2152,685,chat ops
-2153,686,clean architecture
-2154,687,codejam
-2155,687,코드잼
-2156,687,구글 코드잼
-2157,687,Google codejam
-2158,688,combine
-2159,689,core engineer
-2160,690,defcon
-2161,690,데프콘
-2162,690,데프 콘
-2163,690,def con
-2164,691,hacker cup
-2165,691,Fackbook hacker cup
-2166,691,해커 컵
-2167,692,insurtech
-2168,693,iphone app 개발
-2169,693,아이폰 앱 개발
-2170,693,아이폰 app 개발
-2171,693,아이폰 application 개발
-2172,693,ios app 개발
-2173,693,ios 앱 개발
-2174,693,ios app development
-2175,693,ios application development
-2176,693,apple development
-2177,694,live 기술 개발
-2178,695,log 처리
-2179,695,logging
-2180,696,MarioNETte
-2181,696,marionette
-2182,697,material
-2183,698,mcse
-2184,699,mobile deep learning
-2185,700,open api
-2186,701,os
-2187,702,query
-2188,702,쿼리
-2189,703,rcp
-2190,704,sqs
-2191,705,stereo camera
-2192,706,texture
-2193,707,tradingview
-2194,708,ua
-2195,709,unidirectional 앱
-2196,709,unidirectional app
-2197,709,unidirectional application
-2198,710,vod 기술 개발
-2199,710,동영상 기술 솔루션 개발
-2200,710,주문형 비디오 기술 개발
-2201,711,vod 인코더 개발
-2202,711,vod encoder 개발
-2203,712,vod 편집 기능 개발
-2204,713,xba
+1054,344,word
+1055,344,doc
+1056,344,Microsoft word
+1057,344,워드
+1058,344,마이크로소프트 word
+1059,345,powerpoint
+1060,345,ppt
+1061,345,파워포인트
+1062,345,피피티
+1063,345,Microsoft ppt
+1064,345,마이크로소프트 ppt
+1065,346,excel
+1066,346,엑셀
+1067,346,Microsoft Excel
+1068,346,마이크로소프트 엑셀
+1069,346,마이크로소프트 Excel
+1070,346,xlsx
+1071,347,ms office
+1072,347,office
+1073,347,마이크로소프트 오피스
+1074,347,오피스
+1075,347,Microsoft office
+1076,347,마이크로소프트 Office
+1077,348,hyper-v
+1078,348,하이퍼-v
+1079,348,하이퍼 v
+1080,348,마이크로소프트 하이퍼v
+1081,348,Microsoft hyper-v
+1082,348,Microsoft 하이퍼v
+1083,348,마이크로소프트 hyper-v
+1084,349,ms sql
+1085,349,마이크로소프트 SQL 서버
+1086,349,Microsoft SQL server
+1087,349,Microsoft SQL 서버
+1088,349,마이크로소프트 SQL server
+1089,349,ms sql server
+1090,349,ms sql 서버
+1091,350,MATLAB
+1092,350,매트랩
+1093,350,맷랩
+1094,350,맽랩
+1095,350,매틀랩
+1096,350,메트랩
+1097,350,Mathworks
+1098,350,멧랩
+1099,351,mantis bug tracker
+1100,351,맨티스
+1101,351,맨티스 버그 추적기
+1102,351,Mantis
+1103,351,멘티스
+1104,351,맨티스 버그 트래커
+1105,351,맨티스 버그 트랙커
+1106,351,멘티스 버그 트래커
+1107,352,memcached
+1108,352,맴캐시디
+1109,352,맴캐시트
+1110,352,맴캐시드
+1111,352,맴캐쉬드
+1112,353,mapreduce
+1113,353,맵리듀스
+1114,353,맵Reduce
+1115,353,Map리듀스
+1116,354,mock object
+1117,354,모의 객체
+1118,355,mockito
+1119,355,모키토
+1120,355,목키토
+1121,355,모기토
+1122,355,모킷토
+1123,355,목킷토
+1124,356,mongodb
+1125,356,몽고 db
+1126,356,mongo database
+1127,356,몽고디비
+1128,357,babel
+1129,357,바벨
+1130,358,bootstrap
+1131,358,부트스트랩
+1132,358,붓스트랩
+1133,358,부트스트렙
+1134,359,부트캠프
+1135,359,boot camp
+1136,360,bigquery
+1137,360,빅쿼리
+1138,361,bitbucket
+1139,361,빗버킷
+1140,361,비트버킷
+1141,361,Atlassian Bitbucket
+1142,361,Atlassian 빗버킷
+1143,361,Atlassian 비트버킷
+1144,361,빗트버킷
+1145,361,Atlassian 빗트버킷
+1146,362,udp
+1147,362,사용자 데이터그램 프로토콜
+1148,362,User Datagram Protocol
+1149,363,scikit-learn
+1150,363,사이킷런
+1151,363,sklearn
+1152,364,ssr
+1153,364,Server-side rendering
+1154,364,SSR
+1155,364,에스에스알
+1156,365,svn
+1157,365,서브버전
+1158,365,subversion
+1159,366,socket.io
+1160,366,소켓IO
+1161,367,saltstack
+1162,367,솔트
+1163,368,shell script
+1164,368,쉘 스크립트
+1165,368,shell
+1166,368,bash shell
+1167,369,swagger
+1168,369,스웨거
+1169,369,swagger api
+1170,370,swift
+1171,370,스위프트
+1172,371,scala
+1173,371,스칼라
+1174,371,Scalable Language
+1175,372,sketch
+1176,372,스케치
+1177,372,UI
+1178,372,macOS sketch
+1179,373,stereo vision
+1180,373,스테레오 비전
+1181,374,Spring Roo
+1182,374,스프링 루
+1183,375,Spring Mobile
+1184,375,스프링 모바일
+1185,376,Spring Batch
+1186,376,스프링 배치
+1187,376,스프링 batch
+1188,377,spring boot
+1189,377,스프링 부트
+1190,378,Spring Statemachine
+1191,378,스프링 상태 머신
+1192,379,Spring Shell
+1193,379,스프링 쉘
+1194,380,spring security
+1195,380,스프링 시큐리티
+1196,380,스프링 security
+1197,381,Spring for Android
+1198,381,스프링 안드로이드
+1199,382,spring cloud
+1200,382,스프링 클라우드
+1201,382,스프링 cloud
+1202,383,spring
+1203,383,spring framework
+1204,383,스프링 프레임워크
+1205,384,Spring AMQP
+1206,384,스프링 amqp
+1207,385,Spring CredHub
+1208,385,스프링 CredHub
+1209,386,spring data
+1210,386,스프링 data
+1211,387,Spring Flo
+1212,387,스프링 Flo
+1213,388,Spring HATEOAS
+1214,388,hypermedia As The Engine Of Application State
+1215,389,spring integration
+1216,389,스프링 integration
+1217,390,Spring LDAP
+1218,390,스프링 LDAP
+1219,391,spring mvc
+1220,391,스프링 Mvc
+1221,391,model view controller
+1222,392,Spring REST Docs
+1223,392,스프링 REST Docs
+1224,393,spring session
+1225,393,스프링 session
+1226,394,Spring Vault
+1227,394,스프링 Vault
+1228,395,slack
+1229,395,슬랙
+1230,396,심포니
+1231,396,Symfony
+1232,397,rds
+1233,397,관계형 데이터베이스 서비스
+1234,397,Amazon Rds
+1235,397,Amazon relational database service
+1236,398,dynamodb
+1237,398,다이나모
+1238,398,아마존 다이나모
+1239,398,amazon dynamo
+1240,398,아마존 다이나모DB
+1241,398,amazon dynamo DB
+1242,398,Dynamo DB
+1243,398,다이나모DB
+1244,398,AWS 다이나모
+1245,398,AWS dynamo
+1246,398,AWS 다이나모DB
+1247,398,AWS dynamo DB
+1248,399,alexa
+1249,399,알렉사
+1250,399,아마존 알렉사
+1251,399,Amazon alexa
+1252,399,Amazon 알렉사
+1253,399,아마존 Alexa
+1254,400,alexa voice service
+1255,400,avs
+1256,400,amazon avs
+1257,400,아마존 avs
+1258,400,amazon alexa avs
+1259,401,aws
+1260,401,amazon web service
+1261,401,아마존 웹 서비스
+1262,401,amazon 웹 서비스
+1263,401,아마존 web service
+1264,401,아마존 web 서비스
+1265,401,amazon 웹 service
+1266,402,ecs
+1267,402,amazon ecs
+1268,402,아마존 일래스틱
+1269,402,아마존 엘라스틱
+1270,403,ec2
+1271,403,Elastic compute cloud
+1272,403,amazon eleastic
+1273,403,아마존 일래스틱
+1274,403,아마존 elastic
+1275,403,아마존 엘라스틱
+1276,403,아마존 일래스틱 컴퓨트 클라우드
+1277,403,아마존 엘라스틱 컴퓨트 클라우드
+1278,403,엘라스틱 컴퓨트 클라우드
+1279,403,엘라스틱 컴퓨트 클라우드
+1280,403,AWS EC2
+1281,403,Amazon EC2
+1282,404,eks
+1283,404,Amazon Elastic Kubernetes Service
+1284,404,아마존 일래스틱
+1285,404,쿠버네틱스
+1286,404,관리형 쿠버네티스 서비스
+1287,404,관리형 Kubernates
+1288,405,elasticache
+1289,405,아마존 일래스틱 캐시
+1290,405,아마존 엘라스틱 캐시
+1291,405,일래스틱 캐시
+1292,405,엘라스틱 캐시
+1293,405,Amazon ElastiCache
+1294,405,아마존 ElastiCache
+1295,405,엘라스티캐시
+1296,405,일래스티캐시
+1297,405,일라스틱캐시
+1298,406,redshift
+1299,406,Amazon redshift
+1300,406,아마존 레드시프트
+1301,406,레드시프트
+1302,406,레드쉬프트
+1303,406,아마존레드쉬프트
+1304,407,route53
+1305,407,Amazon Route 53
+1306,407,아마존 Route 53
+1307,407,아마존 라우트 53
+1308,407,아마존 로트 53
+1309,407,아마존 루트 53
+1310,407,Amazon 라우트 53
+1311,407,Amazon 로트 53
+1312,407,Amazon 루트 53
+1313,408,s3
+1314,408,amazon s3
+1315,408,simple storage service
+1316,408,에스스리
+1317,408,에스쓰리
+1318,408,아마존 s3
+1319,409,아파치
+1320,409,apache
+1321,410,maven
+1322,410,아파치 메이븐
+1323,410,apache maven
+1324,410,아파치 maven
+1325,410,apache 메이븐
+1326,410,메이븐
+1327,411,아파치 서버
+1328,411,apache server
+1329,411,아파치 HTTP 서버
+1330,411,apache HTTP server
+1331,412,spark
+1332,412,스파크
+1333,412,apache spark
+1334,412,아파치 스파크
+1335,413,airflow
+1336,413,apache airflow
+1337,413,에어플로우
+1338,413,아파치 에어플로우
+1339,414,zookeeper
+1340,414,apache zookeeper
+1341,414,아파치 주키퍼
+1342,414,아파치 zookeeper
+1343,415,cassandra
+1344,415,apache cassandra
+1345,415,아파치 카산드라
+1346,415,카산드라
+1347,416,kafka
+1348,416,카프카
+1349,416,아파치 카프카
+1350,416,Apache kafka
+1351,416,아파치 kafka
+1352,416,Apache 카프카
+1353,417,cordova
+1354,417,apahce cordova
+1355,417,코도바
+1356,417,아파치 코도바
+1357,417,아파치 cordova
+1358,417,Apache 코도바
+1359,418,톰캣
+1360,418,tomcat
+1361,418,아파치 톰캣
+1362,418,apache tomcat
+1363,418,아파치 tomcat
+1364,418,apache 톰켓
+1365,419,hadoop
+1366,419,하둡
+1367,419,아파치 하둡
+1368,419,High-Availability Distributed Object-Oriented Platform
+1369,419,apache hadoop
+1370,419,아파치 hadoop
+1371,419,apache 하둡
+1372,420,hive
+1373,420,하이브
+1374,420,아파치 하이브
+1375,420,apache hive
+1376,420,아파치 hive
+1377,420,apache 하이브
+1378,421,hbase
+1379,421,아파치 Hbase
+1380,421,Apache Hbase
+1381,422,ignite
+1382,422,아파치 ignite
+1383,422,apache ignite
+1384,422,이그나이트
+1385,422,아파치 이그나이트
+1386,422,apache 이그나이트
+1387,422,익나이트
+1388,422,아파치 익나이트
+1389,423,Apollo
+1390,423,Apollo client
+1391,423,아폴로
+1392,424,android
+1393,424,안드로이드
+1394,425,cryptographic hash
+1395,425,암호화 해시 함수
+1396,425,암호학적 해시 함수
+1397,425,암호화 해쉬 함수
+1398,425,암호학적 해쉬 함수
+1399,426,ansible
+1400,426,앤서블
+1401,427,antd
+1402,427,react antd
+1403,427,react ant design
+1404,427,앤트 디자인
+1405,427,리액트 앤트 디자인
+1406,427,react 앤트 디자인
+1407,427,react Ant 디자인
+1408,427,리액트 Ant 디자인
+1409,427,react ant 디자인
+1410,428,yaml
+1411,428,YAML Ain't Markup Language
+1412,428,야믈
+1413,429,일러스트레이터
+1414,429,illustrator
+1415,429,어도비 일러스트레이터
+1416,429,Adobe illustrator
+1417,429,Adobe 일러스트레이터
+1418,429,어도비 illustrator
+1419,430,포토샵
+1420,430,Photoshop
+1421,430,어도비 포토샵
+1422,430,Adobe photoshop
+1423,430,Adobe 포토샵
+1424,430,어도비 Photoshop
+1425,431,xd
+1426,431,adobe xd
+1427,431,어도비 xd
+1428,432,언리얼 엔진
+1429,432,unreal engine
+1430,432,unreal 엔진
+1431,432,언리얼 engine
+1432,433,nginx
+1433,433,엔진x
+1434,434,elm
+1435,434,엘름
+1436,434,엘룸
+1437,435,weblogic server
+1438,435,오라클
+1439,435,웹로직
+1440,435,oracle weblogic server
+1441,436,orchestration
+1442,436,오케스트레이션
+1443,436,컨테이너 오케스트레이션
+1444,437,opengl
+1445,437,오픈 그래픽 라이브러리
+1446,437,오픈쥐엘
+1447,437,오픈지엘
+1448,437,오픈GL
+1449,437,Open graphic library
+1450,438,oss
+1451,438,오픈소스 소프트웨어
+1452,438,open source software
+1453,439,openshift
+1454,439,오픈시프트
+1455,439,오픈쉬프트
+1456,439,open쉬프트
+1457,439,open시프트
+1458,440,openid
+1459,440,오픈아이디
+1460,440,open아이디
+1461,440,오픈id
+1462,441,wildfly
+1463,441,와일드플라이
+1464,442,ubuntu
+1465,442,우분투
+1466,442,linux ubuntu
+1467,443,워드프레스
+1468,443,wordpress
+1469,444,webview
+1470,444,웹뷰
+1471,445,webpack
+1472,445,웹팩
+1473,446,유니티
+1474,446,unity
+1475,447,unix
+1476,447,유닉스
+1477,447,macos
+1478,448,eclipse
+1479,448,이클립스
+1480,449,invision
+1481,449,인비전
+1482,450,intellij idea
+1483,450,인텔리제이
+1484,450,jetbrains
+1485,450,intelliJ
+1486,451,influxdb
+1487,451,influx database
+1488,451,인플럭스 데이터베이스
+1489,452,elastic search
+1490,452,일래스틱 서치
+1491,452,엘라스틱 서치
+1492,453,electron
+1493,453,일랙트론
+1494,453,일렉트론
+1495,454,자바
+1496,454,JAVA
+1497,455,jvm
+1498,455,자바가상머신
+1499,455,java virtual machine
+1500,456,jsp
+1501,456,JavaServer Pages
+1502,456,자바서버 페이지
+1503,457,자바스크립트
+1504,457,javascript
+1505,457,JS
+1506,458,nlu
+1507,458,자연어 이해
+1508,458,Natural Language Understanding
+1509,459,django
+1510,459,쟝고
+1511,459,장고
+1512,460,erp
+1513,460,전사적 자원 관리
+1514,460,Enterprise Resource Planning
+1515,460,이알피
+1516,461,tcp/ip
+1517,461,Transmission Control Protocol/Internet Protocol
+1518,462,emr
+1519,462,전자건강기록
+1520,462,Electronic Medical Record
+1521,463,정보보호관리체계
+1522,463,Information Security Management System
+1523,463,isms
+1524,464,jeus
+1525,464,Java Enterprise User Solution
+1526,464,티맥스소프트 제우스
+1527,464,tmaxsoft
+1528,464,제우스
+1529,464,tmaxsoft jeus
+1530,464,tmaxsoft 제우스
+1531,465,junit
+1532,465,제이유닛
+1533,466,jquery
+1534,466,제이쿼리
+1535,466,jquery plugin
+1536,467,zeplin
+1537,467,제플린
+1538,468,xen
+1539,468,젠
+1540,469,jenkins
+1541,469,젠킨스
+1542,469,젠킨즈
+1543,469,잰킨스
+1544,469,잰킨즈
+1545,470,julia
+1546,470,줄리아
+1547,470,쥴리아
+1548,471,jira
+1549,471,지라
+1550,471,jira software
+1551,472,zigbee
+1552,472,직비
+1553,473,mvp
+1554,473,최소 기능 제품
+1555,473,Minimum Viable Product
+1556,474,carthage
+1557,474,카르타고
+1558,474,카타고
+1559,474,칼타고
+1560,474,카르타그
+1561,474,칼타그
+1562,475,katalon
+1563,475,카탈론
+1564,475,카탈론 스튜디오
+1565,475,katalon studio
+1566,475,카탈론 studio
+1567,475,katalon 스튜디오
+1568,475,카달론
+1569,476,canvas api
+1570,476,캔버스
+1571,476,Canvas
+1572,477,container
+1573,477,컨테이너
+1574,477,콘테이너
+1575,478,컨플루언스
+1576,478,confluence
+1577,479,케라스
+1578,479,keras
+1579,480,codeigniter
+1580,480,코드이그나이터
+1581,480,codeigniter web framework
+1582,481,coroutine
+1583,481,코루틴
+1584,481,Kotlin Coroutine
+1585,481,콜틴
+1586,482,cocoapods
+1587,482,코코아팟
+1588,483,kotlin
+1589,483,코틀린
+1590,484,consul
+1591,484,콘술
+1592,485,cdn
+1593,485,Content delivery network
+1594,485,콘텐츠 전송 네트워크
+1595,485,컨텐츠 전송 네트워크
+1596,486,Kubernetes
+1597,486,쿠버네티스
+1598,486,k8s
+1599,486,쿠버네틱스
+1600,487,clojure
+1601,487,클로저
+1602,487,클로져
+1603,488,타입스크립트
+1604,488,typescript
+1605,489,tableau
+1606,489,태블로
+1607,490,terraform
+1608,490,테라폼
+1609,491,tensorflow
+1610,491,텐서플로우
+1611,491,tf
+1612,491,텐서플로
+1613,492,uml
+1614,492,통합 모델링 언어
+1615,492,Unified Modeling Language
+1616,493,trello
+1617,493,트렐로
+1618,494,파이썬
+1619,494,파이톤
+1620,494,Python
+1621,494,파이쏜
+1622,494,파이턴
+1623,494,파이떤
+1624,494,파이똔
+1625,495,firebase
+1626,495,파이어베이스
+1627,495,화이어베이스
+1628,496,perl
+1629,496,펄
+1630,497,postman
+1631,497,포스트맨
+1632,498,pwa
+1633,498,프로그레시브 웹 앱
+1634,498,Progressive Web App
+1635,499,flask
+1636,499,플라스크
+1637,499,플래스크
+1638,500,flutter
+1639,500,플러터
+1640,501,figma
+1641,501,피그마
+1642,502,hibernate
+1643,502,하이버네이트
+1644,502,히버네이트
+1645,503,hiveql
+1646,503,하이브 ql
+1647,503,아파치 하이브ql
+1648,503,apache hiveQL
+1649,503,아파치 hiveQL
+1650,503,apache 하이브QL
+1651,504,html
+1652,504,Hypertext Markup Language
+1653,504,하이퍼텍스트
+1654,505,wireframe
+1655,505,화면설계서
+1656,505,와이어프레임
+1657,506,svg
+1658,506,Scalable Vector Graphics
+1659,506,확장 가능한 벡터 그래픽
+1660,507,afnetworking
+1661,508,ajax
+1662,508,Asynchronous Javascript And Xml
+1663,508,아작스
+1664,508,에이작스
+1665,508,에이젝스
+1666,508,아젝스
+1667,509,alamofire
+1668,510,kinesis
+1669,510,aws kinesis
+1670,510,아마존 kinesis
+1671,510,Amazon Kiness
+1672,510,키네시스
+1673,510,아마존 키네시스
+1674,510,Amazon 키네시스
+1675,510,AWS 키네시스
+1676,511,amplitude
+1677,512,angularjs
+1678,513,api gateway
+1679,513,Amazon API Gateway
+1680,513,아마존 API gateway
+1681,514,asp.net
+1682,515,bamboo
+1683,515,Atlassian Bamboo
+1684,515,밤부
+1685,515,Atlassian 밤부
+1686,515,아틀라시안 밤부
+1687,515,아틀라시안 Bamboo
+1688,516,aws lambda
+1689,516,lambda
+1690,516,람다
+1691,517,cloudfront
+1692,517,클라우드프론트
+1693,517,아마존 클라우드프론트
+1694,517,Aws cloudfront
+1695,517,CDN
+1696,517,아마존 CloudFront
+1697,517,Amazon 클라우드프론트
+1698,517,AWS 클라우드프론트
+1699,518,codebuild
+1700,518,aws codebuild
+1701,518,아마존 codebuild
+1702,518,아마존 코드빌드
+1703,519,beanstalk
+1704,519,빈즈토크
+1705,519,AWS Elastic Beanstalk
+1706,519,AWS 일래스틱 빈즈토크
+1707,519,AWS 엘라스틱 빈즈토크
+1708,519,AWS 엘라스틱 beanstalk
+1709,519,AWS 엘라스틱 beanstalk
+1710,519,AWS Elastic 빈즈토크
+1711,519,빈스토크
+1712,519,엘라스틱 빈즈토크
+1713,519,일래스틱 빈즈토크
+1714,519,엘라스틱 Beanstalk
+1715,519,일래스틱 Beanstalk
+1716,519,Elastic 빈즈토크
+1717,519,Elastic 빈스토크
+1718,520,bash
+1719,520,배시
+1720,520,배쉬
+1721,521,c#
+1722,521,씨샵
+1723,521,C++++
+1724,521,C샵
+1725,522,c++
+1726,522,cpp
+1727,522,씨플플
+1728,522,시플플
+1729,522,씨피피
+1730,522,C플플
+1731,523,c
+1732,523,c 언어
+1733,523,C language
+1734,523,C Lang
+1735,524,caffe
+1736,524,카페
+1737,525,css
+1738,525,Cascading Style Sheets
+1739,526,centos
+1740,526,센트오에스
+1741,526,linux-CentOS
+1742,526,unix-CentOs
+1743,527,chartiq
+1744,527,차트아이큐
+1745,527,챠트아이큐
+1746,528,chartjs
+1747,529,cocos2d
+1748,529,cocos2d-x
+1749,529,코코스2d
+1750,529,코코스2d-x
+1751,530,cti
+1752,530,Computer Telephony Integration
+1753,530,컴퓨터 전화 통합
+1754,531,cuda
+1755,531,Compute Unified Device Architecture
+1756,531,쿠다
+1757,532,cycle.js
+1758,533,D3.js
+1759,533,d3
+1760,533,d3js
+1761,534,dagger
+1762,534,대거
+1763,534,다거
+1764,535,data studio
+1765,535,Google data studio
+1766,536,databinding
+1767,536,데이터바인딩
+1768,536,데이타바인딩
+1769,536,데이터결합
+1770,537,elk stack
+1771,537,elasticsearch
+1772,537,logstash
+1773,537,kibana
+1774,537,스택
+1775,537,elastic stack
+1776,537,엘라스틱 스택
+1777,537,일래스틱 스택
+1778,537,일래스틱 stack
+1779,537,엘라스틱 stack
+1780,537,elastic 스택
+1781,538,ecmascript
+1782,538,EMCA
+1783,538,Enterprise Manager Configuration Assistant
+1784,539,es6
+1785,539,ECMA스크립트
+1786,539,ECMA
+1787,540,es lint
+1788,540,ES린트
+1789,540,이에스린트
+1790,540,이에스lint
+1791,541,expressjs
+1792,541,익스프레스
+1793,542,fastlane
+1794,542,Fast랜
+1795,542,패스트랜
+1796,542,패스트란
+1797,542,Fast란
+1798,543,ffmpeg
+1799,544,fluentd
+1800,544,플루언트
+1801,545,google suite
+1802,545,GSuite
+1803,545,구글 워크스페이스
+1804,545,구글 Suite
+1805,545,Google 시트
+1806,545,G시트
+1807,545,구글 시트
+1808,545,구글 슈트
+1809,545,구글 수트
+1810,545,구글 쉿
+1811,546,glide
+1812,546,글라이드
+1813,547,GO
+1814,547,golang
+1815,547,고
+1816,548,gradle
+1817,548,그래들
+1818,548,그레이들
+1819,548,Gradle Build Tool
+1820,549,graphol
+1821,549,그래폴
+1822,549,그래프올
+1823,550,gRPC
+1824,550,Remote Procedure Call
+1825,550,google Remote Procedure Call
+1826,550,google RPC
+1827,551,gson
+1828,551,google gson
+1829,552,vault
+1830,552,HashiCrop Vault
+1831,553,highchart
+1832,553,하이차트
+1833,553,highcharts
+1834,554,http
+1835,554,HyperText Transfer Protocol
+1836,555,https
+1837,555,HyperText Transfer Protocol over Secure Socket Layer
+1838,555,HTTP over TLS
+1839,555,HTTP over SSL
+1840,555,HTTP Secure
+1841,556,websphere
+1842,556,IBM 웹스피어
+1843,556,웹스피어
+1844,557,cognos
+1845,557,Cognos Analytics
+1846,557,IBM Cognos Analytics
+1847,557,코그노스
+1848,557,IBM 코그노스 Analytics
+1849,558,iOS
+1850,558,아이오에스
+1851,559,jboss
+1852,560,jetpack
+1853,560,android jetpack
+1854,560,Android Jetpack
+1855,560,잿팩
+1856,560,젯팩
+1857,561,JPA
+1858,561,java persistence api
+1859,561,자바 퍼시스턴스 API
+1860,561,JAVA 퍼시스턴스 API
+1861,561,자바 Persistence API
+1862,561,자바 퍼시스턴스
+1863,561,java persistence
+1864,562,Kendo UI
+1865,562,kendoui
+1866,562,켄도 유아이
+1867,562,켄도UI
+1868,562,Kendo유아이
+1869,563,kibana
+1870,563,키바나
+1871,563,ELKR
+1872,564,LiveData
+1873,564,라이브데이터
+1874,564,라이브데이타
+1875,565,LaTex
+1876,565,레이텍
+1877,566,lottie
+1878,566,로티
+1879,566,로띠
+1880,567,matplotlib
+1881,567,맷플롯립
+1882,567,맷트플랏
+1883,567,매트플랏
+1884,568,mean stack
+1885,568,MEAN
+1886,568,민 스택
+1887,568,민
+1888,569,mfc
+1889,569,MFC
+1890,569,마이크로소프트 파운데이션 클래스 라이브러리
+1891,569,Microsoft Foundation Class Library
+1892,569,엠에프씨
+1893,570,mobx
+1894,571,modern c++
+1895,571,모던 c++
+1896,571,mordern cpp
+1897,571,모던 cpp
+1898,572,mvc pattern
+1899,572,model view controller
+1900,572,모델 뷰 컨트롤러
+1901,573,mysql
+1902,573,마이에스큐엘
+1903,573,마이SQL
+1904,574,nestjs
+1905,574,네스트js
+1906,575,next.js
+1907,575,next
+1908,575,넥스트
+1909,576,nexus
+1910,576,넥서스
+1911,577,노드제이에스
+1912,577,node.js
+1913,577,node 제이에스
+1914,577,노드js
+1915,578,nosql
+1916,578,노sql
+1917,578,No에스큐엘
+1918,578,Non SQL
+1919,578,non relational
+1920,579,npm
+1921,579,Node Package Manager
+1922,579,엔피엠
+1923,579,엔피앰
+1924,580,numpy
+1925,580,넘파이
+1926,581,Nuxt.js
+1927,581,nuxt
+1928,581,눅스트
+1929,582,oauth
+1930,583,object-c
+1931,583,Objective-c
+1932,583,오브젝트씨
+1933,583,오브젝티브씨
+1934,583,오브젝트C
+1935,583,오브젝티브C
+1936,584,okhttp3
+1937,585,opencv
+1938,585,오픈CV
+1939,585,오픈씨브이
+1940,585,오픈씨븨
+1941,586,opengl es
+1942,586,오픈 그래픽 라이브러리 es
+1943,586,오픈쥐엘es
+1944,586,오픈지엘es
+1945,586,오픈GLes
+1946,586,Open graphic library ES
+1947,587,opentracing
+1948,587,오픈트레이싱
+1949,587,open트레이싱
+1950,587,오픈tracing
+1951,588,OpenVINO
+1952,588,오픈비노
+1953,588,openvino
+1954,588,오픈VINO
+1955,589,oracle
+1956,589,오라클
+1957,590,overflow
+1958,590,오버플로우
+1959,590,css overflow
+1960,590,css 오버플로우
+1961,591,pandas
+1962,591,판다스
+1963,592,parcel
+1964,592,퍼셀
+1965,592,퍼쎌
+1966,592,파셀
+1967,592,파쎌
+1968,593,php
+1969,593,Personal Hypertext Preprocessor
+1970,594,pivotal
+1971,595,plain javascript
+1972,595,plainjs
+1973,596,PostgreSQL
+1974,596,포스트그레스큐엘
+1975,597,pytorch
+1976,597,파이토치
+1977,597,torch
+1978,597,토치
+1979,598,Qt
+1980,598,큐티
+1981,598,Qt Framework
+1982,599,R
+1983,599,알
+1984,599,R studio
+1985,600,native
+1986,600,react native
+1987,600,리액트 네이티브
+1988,600,네이티브
+1989,601,reactorkit
+1990,601,리액터Kit
+1991,601,리액터킷
+1992,601,reactor킷
+1993,601,reactor킷트
+1994,601,리액터키트
+1995,601,리액터킷트
+1996,602,redash
+1997,603,rest api
+1998,603,Representational State Transfer
+1999,603,레스트API
+2000,604,restful
+2001,605,restful api
+2002,605,restful api
+2003,606,retrofit
+2004,606,레트로핏
+2005,606,레트로fit
+2006,606,retro핏
+2007,607,retrofit2
+2008,607,레트로핏2
+2009,607,레트로fit2
+2010,607,retro핏2
+2011,608,rollup
+2012,608,롤업
+2013,609,rx2
+2014,610,sass
+2015,610,사스
+2016,611,scouter
+2017,611,스카우터
+2018,611,LG scouter
+2019,611,scouter APM
+2020,612,scss
+2021,613,seaborn
+2022,613,sns
+2023,613,시본
+2024,613,씨본
+2025,613,matplotlib
+2026,613,pyplot
+2027,614,sequelize orm
+2028,615,structure from motion
+2029,615,SFM
+2030,616,Spring for Apache Kafka
+2031,617,spss
+2032,617,Statistical Package for the Social Sciences
+2033,617,사회과학을 위한 통계 처리
+2034,617,에스피에스에스
+2035,618,SQL
+2036,618,Structured Query Language
+2037,618,에스큐엘
+2038,619,TensorRT
+2039,619,tensorflow RT
+2040,619,텐서플로우 RT
+2041,619,텐서플로 RT
+2042,619,tf RT
+2043,620,travis ci
+2044,621,typeorm
+2045,621,object relational mapping
+2046,621,typescript
+2047,622,virtual dom
+2048,623,vio
+2049,623,Visual Inertial Odometry
+2050,624,vmware
+2051,624,VM웨어
+2052,624,가상머신
+2053,624,virtual machine
+2054,625,vue.js
+2055,625,vuex
+2056,625,뷰
+2057,626,webgl
+2058,626,web graphics library
+2059,627,webrtc
+2060,627,Web Real-Time Communication
+2061,628,win32 api
+2062,629,xcode
+2063,629,엑스코드
+2064,630,xml
+2065,630,Extensible Markup Language
+2066,630,엑스엠엘
+2067,631,yara
+2068,632,yarn
+2069,633,z-wave
+2070,633,지 웨이브
+2071,634,강의 콘텐츠
+2072,635,건강/미용
+2073,636,결과 공유
+2074,637,기술 연구
+2075,638,논리적인 커뮤니케이션
+2076,639,데이터
+2077,639,데이타
+2078,639,data
+2079,640,데이터 기반 의사결정
+2080,641,동영상 콘텐츠
+2081,642,라즈베리파이
+2082,642,Raspberry Pi
+2083,643,레슨 분야
+2084,644,문서화
+2085,644,documentation
+2086,645,물류
+2087,646,부가세
+2088,646,부가가치세
+2089,646,Value-added tax
+2090,646,VAT
+2091,646,goods and services tax
+2092,646,GST
+2093,647,분석
+2094,647,analysis
+2095,648,Bluetooth
+2096,648,bt
+2097,648,블루투스
+2098,648,브루투스
+2099,649,비용 검토
+2100,650,사업 발굴
+2101,651,사용자 리서치
+2102,652,성능 측정
+2103,653,세무신고
+2104,654,sns
+2105,654,social network service
+2106,654,소셜 네트워크 서비스
+2107,655,수학
+2108,655,Mathmatics
+2109,656,시장 trend 분석
+2110,657,알고리즘
+2111,658,애플 디자인 법칙
+2112,659,앱스토어
+2113,660,영상/소리 미디어 처리
+2114,661,영어
+2115,661,English
+2116,662,오픈소스
+2117,662,오픈 소스
+2118,662,Open source
+2119,662,opensource
+2120,662,오픈소스 기여
+2121,663,원활한 커뮤니케이션
+2122,664,웹/앱 서비스 개발/셋업/운영
+2123,665,유지 보수
+2124,665,maintenance
+2125,666,이러닝
+2126,667,이벤트
+2127,667,Event
+2128,668,자동화
+2129,669,전처리
+2130,669,preprocessing
+2131,670,지식그래프
+2132,670,knowledge graph
+2133,671,최적화 기술 개발
+2134,672,커머스 개발
+2135,673,키즈노트
+2136,674,테크 블로거
+2137,674,tech blogger
+2138,674,tech blog
+2139,675,이슈 트러블슈팅
+2140,675,trouble shooting
+2141,675,트러블슈팅
+2142,675,issue trouble shooting
+2143,676,프레임웍개발
+2144,676,프레임웍개발
+2145,676,framework development
+2146,677,프로세스 개선
+2147,678,홈/리빙
+2148,679,확률
+2149,679,probability
+2150,680,회계 감사 대응
+2151,681,acm-icpc
+2152,681,ACM 국제 대학생 프로그래밍 대회
+2153,681,International Collegiate Programming Contest
+2154,682,agile
+2155,682,애자일
+2156,683,amazon alexa
+2157,684,analytics
+2158,684,아날리틱스
+2159,684,애널리틱스
+2160,685,API
+2161,685,Application Programming Interface
+2162,686,ccna
+2163,687,chatops
+2164,687,chat ops
+2165,688,clean architecture
+2166,689,codejam
+2167,689,코드잼
+2168,689,구글 코드잼
+2169,689,Google codejam
+2170,690,combine
+2171,691,core engineer
+2172,692,defcon
+2173,692,데프콘
+2174,692,데프 콘
+2175,692,def con
+2176,693,hacker cup
+2177,693,Fackbook hacker cup
+2178,693,해커 컵
+2179,694,insurtech
+2180,695,iphone app 개발
+2181,695,아이폰 앱 개발
+2182,695,아이폰 app 개발
+2183,695,아이폰 application 개발
+2184,695,ios app 개발
+2185,695,ios 앱 개발
+2186,695,ios app development
+2187,695,ios application development
+2188,695,apple development
+2189,696,live 기술 개발
+2190,697,log 처리
+2191,697,logging
+2192,698,MarioNETte
+2193,698,marionette
+2194,699,material
+2195,700,mcse
+2196,701,mobile deep learning
+2197,702,open api
+2198,703,os
+2199,704,query
+2200,704,쿼리
+2201,705,rcp
+2202,706,sqs
+2203,707,stereo camera
+2204,708,texture
+2205,708,graphics
+2206,709,tradingview
+2207,710,ua
+2208,711,unidirectional 앱
+2209,711,unidirectional app
+2210,711,unidirectional application
+2211,712,vod 기술 개발
+2212,712,동영상 기술 솔루션 개발
+2213,712,주문형 비디오 기술 개발
+2214,713,vod 인코더 개발
+2215,713,vod encoder 개발
+2216,714,vod 편집 기능 개발
+2217,715,xba
