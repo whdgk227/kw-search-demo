@@ -10,6 +10,9 @@ flask = "*"
 numpy = "*"
 pandas = "*"
 soynlp = "*"
+xlrd = "==1.2.0"
+brython = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.7"

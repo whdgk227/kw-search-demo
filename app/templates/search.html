@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="{{ url_for('static', filename='changeRankKeyword.js') }}" > </script>
 </head>
 <body>
     <div class="head-title">
@@ -13,30 +12,48 @@
     </div>
 
     <div class="input">
-        <input onkeydown = changeRankKeyword() id="inputText">
+        <form action="/search" onsubmit="return false;" method="post">
+          <input onkeyup=changeRankKeyword() id="inputText" name="inputKeyword">
+        </form>
     </div>
 
-    </div>
+    <div>
       <h5> 1st Rank Keyword : </h5>
       <h5 id="1stRankText"> --- </h5>
-      <h5> </br> </h5>
 
       <h5> 2nd Rank Keyword : </h5>
       <h5 id="2ndRankText"> --- </h5>
-      <h5> </br> </h5>
 
       <h5> 3rd Rank Keyword : </h5>
       <h5 id="3rdRankText"> --- </h5>
-      <h5> </br> </h5>
 
       <h5> 4th Rank Keyword : </h5>
       <h5 id="4thRankText"> --- </h5>
-      <h5> </br> </h5>
 
       <h5> 5th Rank Keyword : </h5>
       <h5 id="5thRankText"> --- </h5>
-      <h5> </br> </h5>
-    <div>
-
+    </div>
 </body>
+
+<script>
+function changeRankKeyword(){
+  sendPostUsingXMLHttpRequest();
+}
+
+function sendPostUsingXMLHttpRequest(){
+  var data = new FormData();
+  data.append('inputText', document.getElementById("inputText").value);
+  var xhttp = new XMLHttpRequest();
+  xhttp.open("POST", "/search",true);
+  xhttp.send(data);
+  setTimeout(function(){
+    var result = JSON.parse(xhttp.response)["result"];
+    document.getElementById("1stRankText").innerHTML=result[0];
+    document.getElementById("2ndRankText").innerHTML=result[1];
+    document.getElementById("3rdRankText").innerHTML=result[2];
+    document.getElementById("4thRankText").innerHTML=result[3];
+    document.getElementById("5thRankText").innerHTML=result[4];
+  },600);
+}
+</script>
 </html>
