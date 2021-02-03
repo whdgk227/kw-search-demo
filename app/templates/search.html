@@ -3,35 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <title>Document</title>
 </head>
 <body>
     <div class="head-title">
         <h1> 키워드 서치 데모 페이지</h1>
-        <h3> 적절한 키워드 후보를 찾아드립니da</h3>
+        <h3> 적절한 키워드 후보를 최대 N개 찾아드립니da</h3>
     </div>
 
     <div class="input">
+      <input type="radio" name="SetNumber" value="1" >1개
+      <input type="radio" name="SetNumber" value="2" >2개
+      <input type="radio" name="SetNumber" value="3" >3개
+      <input type="radio" name="SetNumber" value="4" >4개
+      <input type="radio" name="SetNumber" value="5" checked>5개
         <form action="/search" onsubmit="return false;" method="post">
           <input onkeyup=changeRankKeyword() id="inputText" name="inputKeyword">
         </form>
     </div>
 
     <div>
-      <h5> 1st Rank Keyword : </h5>
-      <h5 id="1stRankText"> --- </h5>
-
-      <h5> 2nd Rank Keyword : </h5>
-      <h5 id="2ndRankText"> --- </h5>
-
-      <h5> 3rd Rank Keyword : </h5>
-      <h5 id="3rdRankText"> --- </h5>
-
-      <h5> 4th Rank Keyword : </h5>
-      <h5 id="4thRankText"> --- </h5>
-
-      <h5> 5th Rank Keyword : </h5>
-      <h5 id="5thRankText"> --- </h5>
+      <h3 id="RankText1" style="color:red;">   </h3>
+      <h6 id="RankText2">  </h6>
+      <h6 id="RankText3">  </h6>
+      <h6 id="RankText4">  </h6>
+      <h6 id="RankText5">  </h6>
+      <h6 id="SearchingTime">  </h6>
     </div>
 </body>
 
@@ -41,6 +39,7 @@ function changeRankKeyword(){
 }
 
 function sendPostUsingXMLHttpRequest(){
+  var output_size = $("input[type='radio'][name='SetNumber']:checked").val();
   var data = new FormData();
   data.append('inputText', document.getElementById("inputText").value);
   var xhttp = new XMLHttpRequest();
@@ -48,11 +47,13 @@ function sendPostUsingXMLHttpRequest(){
   xhttp.send(data);
   setTimeout(function(){
     var result = JSON.parse(xhttp.response)["result"];
-    document.getElementById("1stRankText").innerHTML=result[0];
-    document.getElementById("2ndRankText").innerHTML=result[1];
-    document.getElementById("3rdRankText").innerHTML=result[2];
-    document.getElementById("4thRankText").innerHTML=result[3];
-    document.getElementById("5thRankText").innerHTML=result[4];
+    for (var i = 0; i < output_size; i++) {
+      document.getElementById("RankText"+(i+1)).innerHTML=result[i];
+    }
+    for (var i = 4; i >= output_size; i--) {
+      document.getElementById("RankText"+(i+1)).innerHTML=" ";
+    }
+    document.getElementById("SearchingTime").innerHTML=result[output_size];
   },600);
 }
 </script>

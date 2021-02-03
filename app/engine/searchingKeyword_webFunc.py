@@ -12,10 +12,22 @@ def get_scores_dict(searching_keyword_list, target_word):
             if searching_keyword==target_word:
                 distance_dict[cnt] = 0
             elif searching_keyword.startswith(target_word):
-                distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword)*0.05,3)
+                distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword)*0.01,3)
             else:
-                distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword)*0.3,3)
-        elif abs(len(target_word) - len(searching_keyword)) < 5:
+                distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword)*0.1,3)
+        # elif abs(len(target_word) - len(searching_keyword)) < 5:
+            # distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword),3)
+        else:
+            pass
+        cnt += 1
+
+    return distance_dict
+
+def get_scores_dict_dist(searching_keyword_list, target_word):
+    distance_dict = {}
+    cnt=0
+    for searching_keyword in searching_keyword_list:
+        if abs(len(target_word) - len(searching_keyword)) <= 5:
             distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword),3)
         else:
             pass
@@ -27,7 +39,7 @@ def sort_dict(distance_list):
     return sorted(distance_list.items(), key=lambda item: item[1])
 
 def preprocessing_target_word(target_word):
-    return target_word.replace(" ","").lower().replace("-","").replace("*","").replace("_","").replace("!","").replace("@","")
+    return target_word.replace(" ","").lower().replace("-","").replace("*","").replace("_","").replace("!","").replace("@","").replace("/","")
 
 def preprocessing_searching_keyword(searching_keyword_list):
     return searching_keyword_list.str.replace(" ","").str.lower()
@@ -39,7 +51,7 @@ def searchKeyword(target_word, searching_keyword_list, df_RepKeyword, df_Searchi
 
     start = time.time()
     length_result = 0
-    output_keyword_list = ['' for _ in range(out_length)]
+    output_keyword_list = ['' for _ in range(out_length+1)]
     output_score_list = ['' for _ in range(out_length)]
     output_keyword_sn_list = ['' for _ in range(out_length)]
     output_searching_keyword_sn_list = ['' for _ in range(out_length)]
@@ -53,6 +65,9 @@ def searchKeyword(target_word, searching_keyword_list, df_RepKeyword, df_Searchi
 
     #Calculate Score
     distance_dict = get_scores_dict(searching_keyword_list, target_word)
+    print(len(distance_dict))
+    if(len(distance_dict)<1):
+        distance_dict = get_scores_dict_dist(searching_keyword_list, target_word)
 
     #Sort Score
     sort_output = sort_dict(distance_dict)
@@ -76,6 +91,7 @@ def searchKeyword(target_word, searching_keyword_list, df_RepKeyword, df_Searchi
             print("Rep_keyword : ", output_keyword_list[i], ", searching keyword : ", output_searching_keyword_sn_list[i], ", score : ", output_score_list[i], ", rep_keyword_sn : ", output_keyword_sn_list[i])
 
         print(f"소요시간: {time.time() - start:.4f}")
+    output_keyword_list[-1] = f"검색 시간 : {time.time() - start:.4f}"
     return output_keyword_list#, output_score_list
 
 def searchKeywordFunction(target_keyword: str, out_length: int, df_RepKeyword, df_SearchingKeyword)->tuple:
