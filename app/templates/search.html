@@ -19,7 +19,8 @@
       <input type="radio" name="SetNumber" value="4" >4개
       <input type="radio" name="SetNumber" value="5" checked>5개
         <form action="/search" onsubmit="return false;" method="post">
-          <input onkeyup=changeRankKeyword() id="inputText" name="inputKeyword">
+          <!-- <input onkeyup=changeRankKeyword() id="inputText" name="inputKeyword"> -->
+          <input id="inputText" name="inputKeyword">
         </form>
     </div>
 
@@ -34,14 +35,37 @@
 </body>
 
 <script>
+function delay(callback,ms){
+  var timer=0;
+  return function(){
+    var context = this, args = arguments;
+    clearTimeout(timer);
+    timer = setTimeout(function(){
+      callback.apply(context, args);
+    }, ms || 0);
+  };
+}
+
+$('#inputText').keyup(delay(function(e){
+  changeRankKeyword();
+},400));
+
 function changeRankKeyword(){
   sendPostUsingXMLHttpRequest();
 }
 
 function sendPostUsingXMLHttpRequest(){
+  var inputText = document.getElementById("inputText").value;
   var output_size = $("input[type='radio'][name='SetNumber']:checked").val();
+  if(inputText.length<1){
+    for (var i = 0; i < output_size; i++) {
+      document.getElementById("RankText"+(i+1)).innerHTML=" ";
+    }
+      document.getElementById("SearchingTime").innerHTML=" ";
+    return;
+  }
   var data = new FormData();
-  data.append('inputText', document.getElementById("inputText").value);
+  data.append('inputText', inputText);
   var xhttp = new XMLHttpRequest();
   xhttp.open("POST", "/search",true);
   xhttp.send(data);
@@ -54,7 +78,7 @@ function sendPostUsingXMLHttpRequest(){
       document.getElementById("RankText"+(i+1)).innerHTML=" ";
     }
     document.getElementById("SearchingTime").innerHTML=result[output_size];
-  },600);
+  },800);
 }
 </script>
 </html>

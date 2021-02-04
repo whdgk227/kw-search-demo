@@ -1,8 +1,11 @@
-import pandas as pd
-from soynlp.hangle import jamo_levenshtein
-from soynlp.hangle import levenshtein
 import sys
 import time
+
+import pandas as pd
+
+from soynlp.hangle import jamo_levenshtein
+from soynlp.hangle import levenshtein
+
 
 def get_scores_dict(searching_keyword_list, target_word):
     distance_dict = {}
@@ -28,12 +31,22 @@ def get_scores_dict_dist(searching_keyword_list, target_word):
     cnt=0
     for searching_keyword in searching_keyword_list:
         if abs(len(target_word) - len(searching_keyword)) <= 5:
-            distance_dict[cnt] = round(jamo_levenshtein(target_word, searching_keyword),3)
+            distance_dict[cnt] = round(levenshtein(target_word, searching_keyword)*weight_including(target_word, searching_keyword),3)
         else:
             pass
         cnt += 1
 
     return distance_dict
+
+def weight_including(target_word, searching_keyword):
+    including_cnt = 0
+    len_target_word = len(target_word)
+    for i in range(len_target_word):
+        if (target_word[i] in searching_keyword):
+            including_cnt += 1
+    return 0.1+0.9*((len_target_word-including_cnt) / (len_target_word))
+
+
 
 def sort_dict(distance_list):
     return sorted(distance_list.items(), key=lambda item: item[1])
