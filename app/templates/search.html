@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -20,11 +21,11 @@
       <input type="radio" name="SetNumber" value="5" checked>5개
         <form action="/search" onsubmit="return false;" method="post">
           <!-- <input onkeyup=changeRankKeyword() id="inputText" name="inputKeyword"> -->
-          <input id="inputText" name="inputKeyword">
+          <input id="inputText" name="inputKeyword" placeholder="검색어를 입력하세요 ㅎ">
         </form>
     </div>
 
-    <div>
+    <div class="searchResult">
       <h3 id="RankText1" style="color:red;">   </h3>
       <h6 id="RankText2">  </h6>
       <h6 id="RankText3">  </h6>
