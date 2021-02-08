@@ -56,7 +56,7 @@ def sort_dict(distance_dict: dict) -> list:
 
 def preprocessing_target_word(target_word: str) -> str:
     pattern = re.compile(r" |-|\*|_|!|@|/|\?|$|%|\(|\)|\^")
-    return re.sub(pattern, "", target_word)
+    return re.sub(pattern, "", target_word).lower()
     # return target_word.replace(" ", "").lower().replace("-", "").replace("*", "").replace("_", "").replace("!", "").replace("@", "").replace("/", "")
 
 
